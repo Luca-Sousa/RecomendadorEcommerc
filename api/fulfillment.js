@@ -89,7 +89,7 @@ app.post("/webhook", (req, res) => {
   let fulfillmentText;
   if (resultados.length) {
     const prod = resultados[0]; // pega o primeiro resultado
-    fulfillmentText = `🔥 RECOMENDAÇÃO ESPECIAL 🔥` +
+    fulfillmentText = `🔥 RECOMENDAÇÃO ESPECIAL` +
       `${prod.categoria.toUpperCase()}: ${prod.marca} ${prod.modelo}
       ` +
       `🎨 Cor: ${prod.cor}
