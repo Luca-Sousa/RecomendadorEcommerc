@@ -1,0 +1,5 @@
+{
+  "version": 2,
+  "builds": [{ "src": "api/fulfillment.js", "use": "@vercel/node" }],
+  "routes": [{ "src": "/webhook", "dest": "/api/fulfillment.js" }]
+}
