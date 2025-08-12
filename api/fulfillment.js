@@ -14,7 +14,7 @@ app.post("/webhook", (req, res) => {
   // Extrai parâmetros do Dialogflow
   const parameters = req.body.queryResult.parameters || {};
 
-  const categoria = parameters.categoria || "celular";
+  const categoria = parameters.tipo_produto || "celular";
   const marca = parameters.marca || "";
   const cor = parameters.cor || "";
   const faixaPreco = parameters["faixa-preco"] || "";
@@ -22,6 +22,7 @@ app.post("/webhook", (req, res) => {
   // Filtra produtos com base nas preferências
   let resultados = produtosData.filter((produto) => {
     return (
+      produto.categoria.toLowerCase() === categoria.toLowerCase() &&
       (!marca || produto.marca.toLowerCase() === marca.toLowerCase()) &&
       (!cor || produto.cor.toLowerCase() === cor.toLowerCase()) &&
       (!faixaPreco ||
@@ -32,7 +33,7 @@ app.post("/webhook", (req, res) => {
   let fulfillmentText;
   if (resultados.length) {
     const prod = resultados[0]; // pega o primeiro resultado
-    fulfillmentText = `Recomendamos: ${prod.marca} ${prod.modelo}, cor ${prod.cor}, por R$${prod.preco}`;
+    fulfillmentText = `Recomendamos: o produto ${prod.categoria} da ${prod.marca} ${prod.modelo}, cor ${prod.cor}, por R$${prod.preco}`;
   } else {
     fulfillmentText =
       "Desculpe, não encontramos um produto com essas características.";
