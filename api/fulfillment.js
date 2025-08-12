@@ -35,14 +35,13 @@ app.post("/webhook", (req, res) => {
   const cor = parameters.cor_produto || "";
   const faixaPreco = parameters.faixa_preco || "";
 
-  // Filtra produtos com base nas preferências
   let resultados = produtosData.filter((produto) => {
     return (
-      produto.categoria.toLowerCase() === categoria.toLowerCase() &&
+      (!categoria ||
+        produto.categoria.toLowerCase() === categoria.toLowerCase()) &&
       (!marca || produto.marca.toLowerCase() === marca.toLowerCase()) &&
       (!cor || produto.cor.toLowerCase() === cor.toLowerCase()) &&
-      (!faixaPreco ||
-        (produto.preco >= faixaPreco.min && produto.preco <= faixaPreco.max))
+      (!faixaPreco || produto.preco == faixaPreco)
     );
   });
 
