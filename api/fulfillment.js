@@ -15,8 +15,8 @@ app.post("/webhook", (req, res) => {
   const parameters = req.body.queryResult.parameters || {};
 
   const categoria = parameters.tipo_produto || "celular";
-  const marca = parameters.marca || "";
-  const cor = parameters.cor || "";
+  const marca = parameters.marca_produto || "";
+  const cor = parameters.cor_produto || "";
   const faixaPreco = parameters["faixa-preco"] || "";
 
   // Filtra produtos com base nas preferências
