@@ -1,0 +1,23 @@
+[
+  {
+    "categoria": "celular",
+    "marca": "Apple",
+    "modelo": "iPhone 13",
+    "cor": "prata",
+    "preco": 4999
+  },
+  {
+    "categoria": "celular",
+    "marca": "Samsung",
+    "modelo": "Galaxy S22",
+    "cor": "preto",
+    "preco": 3599
+  },
+  {
+    "categoria": "celular",
+    "marca": "Apple",
+    "modelo": "iPhone 12",
+    "cor": "preto",
+    "preco": 3999
+  }
+]
