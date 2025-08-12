@@ -17,7 +17,7 @@ app.post("/webhook", (req, res) => {
   const categoria = parameters.tipo_produto || "celular";
   const marca = parameters.marca_produto || "";
   const cor = parameters.cor_produto || "";
-  const faixaPreco = parameters["faixa-preco"] || "";
+  const faixaPreco = parameters.faixa_preco || "";
 
   // Filtra produtos com base nas preferências
   let resultados = produtosData.filter((produto) => {
@@ -33,7 +33,7 @@ app.post("/webhook", (req, res) => {
   let fulfillmentText;
   if (resultados.length) {
     const prod = resultados[0]; // pega o primeiro resultado
-    fulfillmentText = `Recomendamos: o produto ${prod.categoria} da ${prod.marca} ${prod.modelo}, cor ${prod.cor}, por R$${prod.preco}`;
+    fulfillmentText = `Recomendamos: ${prod.categoria} da ${prod.marca} ${prod.modelo}, cor ${prod.cor}, por R$${prod.preco}`;
   } else {
     fulfillmentText =
       "Desculpe, não encontramos um produto com essas características.";
