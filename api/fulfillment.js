@@ -14,6 +14,8 @@ app.post("/webhook", (req, res) => {
   // Extrai parâmetros do Dialogflow
   const parameters = req.body.queryResult.parameters || {};
 
+  console.log("Parâmetros recebidos:", parameters);
+
   const categoria = parameters.tipo_produto || "celular";
   const marca = parameters.marca_produto || "";
   const cor = parameters.cor_produto || "";
