@@ -4,1084 +4,3853 @@
     "marca": "Apple",
     "modelo": "iPhone 13",
     "cor": "prata",
-    "preco": 4999
-  },
-  {
-    "categoria": "celular",
-    "marca": "Samsung",
-    "modelo": "Galaxy S22",
-    "cor": "preto",
-    "preco": 3000
-  },
-  {
-    "categoria": "celular",
-    "marca": "Apple",
-    "modelo": "iPhone 12",
-    "cor": "preto",
-    "preco": 3999
-  },
-  {
-    "categoria": "notebook",
-    "marca": "Dell",
-    "modelo": "Inspiron 15",
-    "cor": "cinza",
-    "preco": 3500
-  },
-  {
-    "categoria": "notebook",
-    "marca": "Lenovo",
-    "modelo": "ThinkPad X1",
-    "cor": "preto",
-    "preco": 8000
-  },
-  {
-    "categoria": "fone de ouvido",
-    "marca": "JBL",
-    "modelo": "Tune 500BT",
-    "cor": "azul",
-    "preco": 400
-  },
-  {
-    "categoria": "tablet",
-    "marca": "Samsung",
-    "modelo": "Galaxy Tab S7",
-    "cor": "preto",
-    "preco": 2500
-  },
-  {
-    "categoria": "TV",
-    "marca": "LG",
-    "modelo": "OLED55",
-    "cor": "preto",
-    "preco": 7000
-  },
-  {
-    "categoria": "smartwatch",
-    "marca": "Apple",
-    "modelo": "Watch Series 7",
-    "cor": "prata",
-    "preco": 3500
-  },
-  {
-    "categoria": "câmera",
-    "marca": "Canon",
-    "modelo": "EOS Rebel T7",
-    "cor": "preto",
-    "preco": 2500
-  },
-  {
-    "categoria": "monitor",
-    "marca": "Philips",
-    "modelo": "243V7Q",
-    "cor": "preto",
-    "preco": 900
-  },
-  {
-    "categoria": "impressora",
-    "marca": "HP",
-    "modelo": "DeskJet 2774",
-    "cor": "branco",
-    "preco": 600
-  },
-  {
-    "categoria": "roteador",
-    "marca": "TP-Link",
-    "modelo": "Archer C6",
-    "cor": "preto",
-    "preco": 300
-  },
-  {
-    "categoria": "console",
-    "marca": "Sony",
-    "modelo": "PlayStation 5",
-    "cor": "branco",
-    "preco": 5500
-  },
-  {
-    "categoria": "projetor",
-    "marca": "Acer",
-    "modelo": "X1123H",
-    "cor": "preto",
-    "preco": 2000
-  },
-  {
-    "categoria": "drone",
-    "marca": "DJI",
-    "modelo": "Mini 2",
-    "cor": "cinza",
-    "preco": 4500
-  },
-  {
-    "categoria": "HD externo",
-    "marca": "Seagate",
-    "modelo": "Expansion 2TB",
-    "cor": "preto",
-    "preco": 500
-  },
-  {
-    "categoria": "SSD",
-    "marca": "Kingston",
-    "modelo": "A400 480GB",
-    "cor": "preto",
-    "preco": 350
-  },
-  {
-    "categoria": "carregador",
-    "marca": "Xiaomi",
-    "modelo": "Mi Charger 33W",
-    "cor": "branco",
-    "preco": 120
-  },
-  {
-    "categoria": "leitor digital",
-    "marca": "Amazon",
-    "modelo": "Kindle 11ª Geração",
-    "cor": "preto",
-    "preco": 500
-  },
-  {
-    "categoria": "celular",
-    "marca": "Motorola",
-    "modelo": "Moto G100",
-    "cor": "azul",
-    "preco": 2500
-  },
-  {
-    "categoria": "notebook",
-    "marca": "Asus",
-    "modelo": "VivoBook 15",
-    "cor": "prata",
-    "preco": 3200
-  },
-  {
-    "categoria": "fone de ouvido",
-    "marca": "Sony",
-    "modelo": "WH-1000XM4",
-    "cor": "preto",
-    "preco": 1500
-  },
-  {
-    "categoria": "tablet",
-    "marca": "Apple",
-    "modelo": "iPad Air",
-    "cor": "rosa",
-    "preco": 4000
-  },
-  {
-    "categoria": "TV",
-    "marca": "Samsung",
-    "modelo": "QLED 4K",
-    "cor": "preto",
-    "preco": 6000
-  },
-  {
-    "categoria": "smartwatch",
-    "marca": "Xiaomi",
-    "modelo": "Mi Watch Lite",
-    "cor": "preto",
-    "preco": 700
-  },
-  {
-    "categoria": "câmera",
-    "marca": "GoPro",
-    "modelo": "Hero 10",
-    "cor": "preto",
-    "preco": 3500
-  },
-  {
-    "categoria": "monitor",
-    "marca": "Acer",
-    "modelo": "Nitro VG240Y",
-    "cor": "preto",
-    "preco": 1100
-  },
-  {
-    "categoria": "impressora",
-    "marca": "Epson",
-    "modelo": "EcoTank L3250",
-    "cor": "preto",
-    "preco": 1200
-  },
-  {
-    "categoria": "roteador",
-    "marca": "Huawei",
-    "modelo": "AX3 Quad-Core",
-    "cor": "branco",
-    "preco": 400
-  },
-  {
-    "categoria": "console",
-    "marca": "Nintendo",
-    "modelo": "Switch OLED",
-    "cor": "branco",
-    "preco": 3500
-  },
-  {
-    "categoria": "celular",
-    "marca": "Xiaomi",
-    "modelo": "Redmi Note 11",
-    "cor": "azul",
-    "preco": 1500
-  },
-  {
-    "categoria": "notebook",
-    "marca": "HP",
-    "modelo": "Pavilion 14",
-    "cor": "prata",
-    "preco": 4000
-  },
-  {
-    "categoria": "fone de ouvido",
-    "marca": "Philips",
-    "modelo": "TAUH202BK",
-    "cor": "preto",
-    "preco": 300
-  },
-  {
-    "categoria": "tablet",
-    "marca": "Lenovo",
-    "modelo": "Tab P11",
-    "cor": "cinza",
-    "preco": 2000
-  },
-  {
-    "categoria": "TV",
-    "marca": "Sony",
-    "modelo": "Bravia X80J",
-    "cor": "preto",
-    "preco": 8000
-  },
-  {
-    "categoria": "smartwatch",
-    "marca": "Samsung",
-    "modelo": "Galaxy Watch 4",
-    "cor": "verde",
-    "preco": 1200
-  },
-  {
-    "categoria": "câmera",
-    "marca": "Sony",
-    "modelo": "Alpha a6000",
-    "cor": "preto",
-    "preco": 3500
-  },
-  {
-    "categoria": "monitor",
-    "marca": "LG",
-    "modelo": "UltraWide 29WK600",
-    "cor": "preto",
-    "preco": 1300
-  },
-  {
-    "categoria": "impressora",
-    "marca": "Canon",
-    "modelo": "Pixma G3110",
-    "cor": "preto",
-    "preco": 900
-  },
-  {
-    "categoria": "roteador",
-    "marca": "Multilaser",
-    "modelo": "RE163",
-    "cor": "branco",
-    "preco": 200
-  },
-  {
-    "categoria": "console",
-    "marca": "Microsoft",
-    "modelo": "Xbox Series S",
-    "cor": "branco",
-    "preco": 3000
-  },
-  {
-    "categoria": "projetor",
-    "marca": "LG",
-    "modelo": "CineBeam PH550",
-    "cor": "branco",
-    "preco": 2500
-  },
-  {
-    "categoria": "drone",
-    "marca": "DJI",
-    "modelo": "Mavic Air 2",
-    "cor": "cinza",
-    "preco": 7000
-  },
-  {
-    "categoria": "HD externo",
-    "marca": "Western Digital",
-    "modelo": "Elements 1TB",
-    "cor": "preto",
-    "preco": 350
-  },
-  {
-    "categoria": "SSD",
-    "marca": "Samsung",
-    "modelo": "EVO 860 1TB",
-    "cor": "preto",
-    "preco": 900
-  },
-  {
-    "categoria": "carregador",
-    "marca": "Motorola",
-    "modelo": "TurboPower 20W",
-    "cor": "preto",
-    "preco": 100
-  },
-  {
-    "categoria": "leitor digital",
-    "marca": "Amazon",
-    "modelo": "Kindle Paperwhite",
-    "cor": "branco",
-    "preco": 800
-  },
-  {
-    "categoria": "celular",
-    "marca": "Realme",
-    "modelo": "8 Pro",
-    "cor": "azul",
-    "preco": 1800
-  },
-  {
-    "categoria": "notebook",
-    "marca": "Acer",
-    "modelo": "Aspire 5",
-    "cor": "prata",
-    "preco": 3500
-  },
-  {
-    "categoria": "fone de ouvido",
-    "marca": "JBL",
-    "modelo": "Quantum 100",
-    "cor": "branco",
-    "preco": 250
-  },
-  {
-    "categoria": "tablet",
-    "marca": "Multilaser",
-    "modelo": "M10A",
-    "cor": "preto",
-    "preco": 800
-  },
-  {
-    "categoria": "TV",
-    "marca": "Philips",
-    "modelo": "50PUG7625",
-    "cor": "preto",
-    "preco": 4000
-  },
-  {
-    "categoria": "smartwatch",
-    "marca": "Huawei",
-    "modelo": "Watch GT 2",
-    "cor": "preto",
-    "preco": 900
-  },
-  {
-    "categoria": "câmera",
-    "marca": "Canon",
-    "modelo": "Powershot SX420",
-    "cor": "vermelho",
-    "preco": 1200
-  },
-  {
-    "categoria": "monitor",
-    "marca": "Samsung",
-    "modelo": "Curved 24",
-    "cor": "branco",
-    "preco": 1000
-  },
-  {
-    "categoria": "impressora",
-    "marca": "Brother",
-    "modelo": "HL-1202",
-    "cor": "preto",
-    "preco": 700
-  },
-  {
-    "categoria": "roteador",
-    "marca": "D-Link",
-    "modelo": "DIR-615",
-    "cor": "preto",
-    "preco": 150
-  },
-  {
-    "categoria": "console",
-    "marca": "Sony",
-    "modelo": "PlayStation 4",
-    "cor": "preto",
-    "preco": 2500
-  },
-  {
-    "categoria": "projetor",
-    "marca": "Epson",
-    "modelo": "PowerLite S41+",
-    "cor": "branco",
-    "preco": 1800
-  },
-  {
-    "categoria": "drone",
-    "marca": "Multilaser",
-    "modelo": "Eagle Pro",
-    "cor": "preto",
-    "preco": 900
-  },
-  {
-    "categoria": "HD externo",
-    "marca": "Toshiba",
-    "modelo": "Canvio Basics 1TB",
-    "cor": "preto",
-    "preco": 300
-  },
-  {
-    "categoria": "SSD",
-    "marca": "Crucial",
-    "modelo": "BX500 480GB",
-    "cor": "preto",
-    "preco": 400
-  },
-  {
-    "categoria": "carregador",
-    "marca": "Positivo",
-    "modelo": "Turbo 18W",
-    "cor": "branco",
-    "preco": 80
-  },
-  {
-    "categoria": "leitor digital",
-    "marca": "Amazon",
-    "modelo": "Kindle Oasis",
-    "cor": "cinza",
-    "preco": 1200
-  },
-  {
-    "categoria": "celular",
-    "marca": "LG",
-    "modelo": "K62+",
-    "cor": "vermelho",
-    "preco": 1200
-  },
-  {
-    "categoria": "notebook",
-    "marca": "Samsung",
-    "modelo": "Book X40",
-    "cor": "cinza",
-    "preco": 4200
-  },
-  {
-    "categoria": "fone de ouvido",
-    "marca": "Sony",
-    "modelo": "MDR-ZX110",
-    "cor": "branco",
-    "preco": 100
-  },
-  {
-    "categoria": "tablet",
-    "marca": "Philips",
-    "modelo": "TAB 7306",
-    "cor": "azul",
-    "preco": 1100
-  },
-  {
-    "categoria": "TV",
-    "marca": "Acer",
-    "modelo": "ATV 32",
-    "cor": "preto",
-    "preco": 2000
-  },
-  {
-    "categoria": "smartwatch",
-    "marca": "Realme",
-    "modelo": "Watch 2 Pro",
-    "cor": "cinza",
-    "preco": 600
-  },
-  {
-    "categoria": "câmera",
-    "marca": "GoPro",
-    "modelo": "Hero 9",
-    "cor": "preto",
-    "preco": 2500
-  },
-  {
-    "categoria": "monitor",
-    "marca": "Acer",
-    "modelo": "SB220Q",
-    "cor": "preto",
-    "preco": 800
-  },
-  {
-    "categoria": "impressora",
-    "marca": "HP",
-    "modelo": "Laser 107w",
-    "cor": "branco",
-    "preco": 900
-  },
-  {
-    "categoria": "roteador",
-    "marca": "TP-Link",
-    "modelo": "TL-WR840N",
-    "cor": "branco",
-    "preco": 120
-  },
-  {
-    "categoria": "console",
-    "marca": "Nintendo",
-    "modelo": "Switch Lite",
-    "cor": "azul",
-    "preco": 2000
-  },
-  {
-    "categoria": "projetor",
-    "marca": "Sony",
-    "modelo": "VPL-EX575",
-    "cor": "preto",
-    "preco": 3500
-  },
-  {
-    "categoria": "drone",
-    "marca": "DJI",
-    "modelo": "Phantom 4",
-    "cor": "branco",
-    "preco": 9500
-  },
-  {
-    "categoria": "HD externo",
-    "marca": "Seagate",
-    "modelo": "Backup Plus 4TB",
-    "cor": "azul",
-    "preco": 900
-  },
-  {
-    "categoria": "SSD",
-    "marca": "Kingston",
-    "modelo": "NV1 1TB",
-    "cor": "preto",
-    "preco": 700
-  },
-  {
-    "categoria": "carregador",
-    "marca": "Samsung",
-    "modelo": "Super Fast 25W",
-    "cor": "preto",
-    "preco": 150
-  },
-  {
-    "categoria": "leitor digital",
-    "marca": "Amazon",
-    "modelo": "Kindle 10ª Geração",
-    "cor": "preto",
-    "preco": 400
-  },
-  {
-    "categoria": "celular",
-    "marca": "Huawei",
-    "modelo": "P30 Lite",
-    "cor": "azul",
-    "preco": 1600
-  },
-  {
-    "categoria": "notebook",
-    "marca": "Microsoft",
-    "modelo": "Surface Laptop Go",
-    "cor": "cinza",
-    "preco": 6000
-  },
-  {
-    "categoria": "fone de ouvido",
-    "marca": "JBL",
-    "modelo": "Endurance Run",
-    "cor": "vermelho",
-    "preco": 120
-  },
-  {
-    "categoria": "tablet",
-    "marca": "Amazon",
-    "modelo": "Fire HD 8",
-    "cor": "preto",
-    "preco": 700
-  },
-  {
-    "categoria": "TV",
-    "marca": "LG",
-    "modelo": "NanoCell 50",
-    "cor": "preto",
-    "preco": 5000
-  },
-  {
-    "categoria": "smartwatch",
-    "marca": "Philips",
-    "modelo": "SWA5100",
-    "cor": "branco",
-    "preco": 400
-  },
-  {
-    "categoria": "câmera",
-    "marca": "Canon",
-    "modelo": "EOS M50",
-    "cor": "branco",
-    "preco": 3000
-  },
-  {
-    "categoria": "monitor",
-    "marca": "Philips",
-    "modelo": "221V8L",
-    "cor": "preto",
-    "preco": 700
-  },
-  {
-    "categoria": "impressora",
-    "marca": "Epson",
-    "modelo": "L120",
-    "cor": "preto",
-    "preco": 800
-  },
-  {
-    "categoria": "roteador",
-    "marca": "Huawei",
-    "modelo": "WS5200",
-    "cor": "preto",
-    "preco": 250
-  },
-  {
-    "categoria": "console",
-    "marca": "Microsoft",
-    "modelo": "Xbox One S",
-    "cor": "branco",
-    "preco": 1800
-  },
-  {
-    "categoria": "projetor",
-    "marca": "Acer",
-    "modelo": "H5382BD",
-    "cor": "preto",
-    "preco": 2200
-  },
-  {
-    "categoria": "drone",
-    "marca": "DJI",
-    "modelo": "Tello",
-    "cor": "branco",
-    "preco": 500
-  },
-  {
-    "categoria": "HD externo",
-    "marca": "Western Digital",
-    "modelo": "My Passport 2TB",
-    "cor": "vermelho",
-    "preco": 600
-  },
-  {
-    "categoria": "SSD",
-    "marca": "Crucial",
-    "modelo": "MX500 1TB",
-    "cor": "azul",
-    "preco": 900
-  },
-  {
-    "categoria": "carregador",
-    "marca": "Asus",
-    "modelo": "18W Fast",
-    "cor": "preto",
-    "preco": 90
-  },
-  {
-    "categoria": "leitor digital",
-    "marca": "Amazon",
-    "modelo": "Kindle Scribe",
-    "cor": "cinza",
-    "preco": 1500
-  },
-  {
-    "categoria": "tablet",
-    "marca": "Samsung",
-    "modelo": "Galaxy Tab A8",
-    "cor": "prata",
-    "preco": 1500
-  },
-  {
-    "categoria": "tablet",
-    "marca": "Apple",
-    "modelo": "iPad Mini",
-    "cor": "cinza",
-    "preco": 3500
-  },
-  {
-    "categoria": "tablet",
-    "marca": "Lenovo",
-    "modelo": "Tab M10",
-    "cor": "branco",
-    "preco": 1200
-  },
-  {
-    "categoria": "tablet",
-    "marca": "Multilaser",
-    "modelo": "M8W",
-    "cor": "preto",
-    "preco": 700
-  },
-  {
-    "categoria": "TV",
-    "marca": "Philips",
-    "modelo": "Ambilight 58",
-    "cor": "preto",
-    "preco": 6500
-  },
-  {
-    "categoria": "TV",
-    "marca": "Samsung",
-    "modelo": "Crystal UHD",
-    "cor": "branco",
-    "preco": 5500
-  },
-  {
-    "categoria": "TV",
-    "marca": "Sony",
-    "modelo": "XBR-65X905F",
-    "cor": "preto",
-    "preco": 9500
-  },
-  {
-    "categoria": "TV",
-    "marca": "LG",
-    "modelo": "Smart TV 43",
-    "cor": "branco",
-    "preco": 3000
-  },
-  {
-    "categoria": "smartwatch",
-    "marca": "Apple",
-    "modelo": "Watch SE",
-    "cor": "rosa",
-    "preco": 2000
-  },
-  {
-    "categoria": "smartwatch",
-    "marca": "Samsung",
-    "modelo": "Galaxy Fit 2",
-    "cor": "vermelho",
-    "preco": 400
-  },
-  {
-    "categoria": "smartwatch",
-    "marca": "Xiaomi",
-    "modelo": "Amazfit Bip U",
-    "cor": "verde",
-    "preco": 500
-  },
-  {
-    "categoria": "smartwatch",
-    "marca": "Huawei",
-    "modelo": "Watch Fit",
-    "cor": "laranja",
-    "preco": 800
-  },
-  {
-    "categoria": "câmera",
-    "marca": "Canon",
-    "modelo": "EOS 250D",
-    "cor": "preto",
-    "preco": 3500
-  },
-  {
-    "categoria": "câmera",
-    "marca": "Sony",
-    "modelo": "Cyber-shot WX350",
-    "cor": "prata",
-    "preco": 1800
+    "preco": 4999,
+    "descricao": "Smartphone premium com chip A15 Bionic e sistema de câmera dupla avançado",
+    "avaliacao": 4.8,
+    "disponibilidade": "Em estoque",
+    "garantia": "12 meses"
   },
   {
     "categoria": "câmera",
     "marca": "GoPro",
     "modelo": "Hero 8",
     "cor": "preto",
-    "preco": 2000
+    "preco": 2000,
+    "descricao": "Câmera de ação compacta com gravação 4K e estabilização HyperSmooth",
+    "avaliacao": 4.6,
+    "disponibilidade": "Em estoque",
+    "garantia": "12 meses"
+  },
+  {
+    "categoria": "celular",
+    "marca": "Sony",
+    "modelo": "Xperia 10 III",
+    "cor": "roxo",
+    "preco": 2200,
+    "descricao": "Smartphone intermediário com tela 21:9 e bateria de longa duração",
+    "avaliacao": 4.3,
+    "disponibilidade": "Em estoque",
+    "garantia": "12 meses"
+  },
+  {
+    "categoria": "celular",
+    "marca": "Asus",
+    "modelo": "Zenfone 8",
+    "cor": "cinza",
+    "preco": 3200,
+    "descricao": "Smartphone compacto flagship com Snapdragon 888 e câmera de 64MP",
+    "avaliacao": 4.5,
+    "disponibilidade": "Em estoque",
+    "garantia": "12 meses"
+  },
+  {
+    "categoria": "celular",
+    "marca": "Philips",
+    "modelo": "S395",
+    "cor": "branco",
+    "preco": 1100,
+    "descricao": "Smartphone básico com boa autonomia de bateria e design simples",
+    "avaliacao": 4.1,
+    "disponibilidade": "Em estoque",
+    "garantia": "12 meses"
+  },
+  {
+    "categoria": "celular",
+    "marca": "Multilaser",
+    "modelo": "G Pro",
+    "cor": "verde",
+    "preco": 900,
+    "descricao": "Celular nacional com custo-benefício e design jovem",
+    "avaliacao": 4.0,
+    "disponibilidade": "Em estoque",
+    "garantia": "12 meses"
+  },
+  {
+    "categoria": "celular",
+    "marca": "Positivo",
+    "modelo": "Twist 4 Pro",
+    "cor": "laranja",
+    "preco": 700,
+    "descricao": "Smartphone brasileiro acessível com funcionalidades essenciais",
+    "avaliacao": 3.9,
+    "disponibilidade": "Em estoque",
+    "garantia": "12 meses"
+  },
+  {
+    "categoria": "notebook",
+    "marca": "Apple",
+    "modelo": "MacBook Air M2",
+    "cor": "cinza",
+    "preco": 9500,
+    "descricao": "Laptop ultrafino com chip M2 e bateria de longa duração",
+    "avaliacao": 4.8,
+    "disponibilidade": "Em estoque",
+    "garantia": "12 meses"
+  },
+  {
+    "categoria": "notebook",
+    "marca": "Microsoft",
+    "modelo": "Surface Pro 8",
+    "cor": "prata",
+    "preco": 10000,
+    "descricao": "Tablet 2-em-1 profissional com Windows 11 e tela touch",
+    "avaliacao": 4.6,
+    "disponibilidade": "Em estoque",
+    "garantia": "12 meses"
+  },
+  {
+    "categoria": "notebook",
+    "marca": "Acer",
+    "modelo": "Swift 3",
+    "cor": "azul",
+    "preco": 4200,
+    "descricao": "Notebook leve e eficiente para uso diário e profissional",
+    "avaliacao": 4.3,
+    "disponibilidade": "Em estoque",
+    "garantia": "12 meses"
+  },
+  {
+    "categoria": "notebook",
+    "marca": "Philips",
+    "modelo": "Ultrabook 14",
+    "cor": "preto",
+    "preco": 2500,
+    "descricao": "Ultrabook com design elegante e performance equilibrada",
+    "avaliacao": 4.2,
+    "disponibilidade": "Em estoque",
+    "garantia": "12 meses"
+  },
+  {
+    "categoria": "notebook",
+    "marca": "Multilaser",
+    "modelo": "Legacy Cloud",
+    "cor": "branco",
+    "preco": 1500,
+    "descricao": "Notebook nacional básico para tarefas cotidianas",
+    "avaliacao": 3.8,
+    "disponibilidade": "Em estoque",
+    "garantia": "12 meses"
+  },
+  {
+    "categoria": "fone de ouvido",
+    "marca": "Apple",
+    "modelo": "AirPods Pro",
+    "cor": "branco",
+    "preco": 2000,
+    "descricao": "Fone wireless premium com cancelamento ativo de ruído",
+    "avaliacao": 4.7,
+    "disponibilidade": "Em estoque",
+    "garantia": "12 meses"
+  },
+  {
+    "categoria": "fone de ouvido",
+    "marca": "Motorola",
+    "modelo": "Pulse Escape",
+    "cor": "vermelho",
+    "preco": 350,
+    "descricao": "Fone on-ear com som potente e design esportivo",
+    "avaliacao": 4.1,
+    "disponibilidade": "Em estoque",
+    "garantia": "12 meses"
+  },
+  {
+    "categoria": "fone de ouvido",
+    "marca": "Acer",
+    "modelo": "True Wireless",
+    "cor": "preto",
+    "preco": 250,
+    "descricao": "Fone bluetooth compacto com boa qualidade de som",
+    "avaliacao": 4.0,
+    "disponibilidade": "Em estoque",
+    "garantia": "12 meses"
+  },
+  {
+    "categoria": "fone de ouvido",
+    "marca": "Logitech",
+    "modelo": "G435",
+    "cor": "azul",
+    "preco": 600,
+    "descricao": "Headset gamer wireless leve e confortável",
+    "avaliacao": 4.4,
+    "disponibilidade": "Em estoque",
+    "garantia": "12 meses"
+  },
+  {
+    "categoria": "fone de ouvido",
+    "marca": "Realme",
+    "modelo": "Buds Q2",
+    "cor": "amarelo",
+    "preco": 200,
+    "descricao": "Earbuds compactos com som equilibrado e design jovem",
+    "avaliacao": 4.1,
+    "disponibilidade": "Em estoque",
+    "garantia": "12 meses"
+  },
+  {
+    "categoria": "tablet",
+    "marca": "Philips",
+    "modelo": "TAB 8406",
+    "cor": "vermelho",
+    "preco": 1300,
+    "descricao": "Tablet Philips TAB 8406 com tela de 8 polegadas e 32GB de armazenamento.",
+    "avaliacao": 4.2,
+    "disponibilidade": "Em estoque",
+    "garantia": "12 meses"
+  },
+  {
+    "categoria": "tablet",
+    "marca": "Sony",
+    "modelo": "Xperia Z4 Tablet",
+    "cor": "preto",
+    "preco": 2500,
+    "descricao": "Tablet Sony Xperia Z4 com tela de 10.1 polegadas e processador Snapdragon.",
+    "avaliacao": 4.5,
+    "disponibilidade": "Em estoque",
+    "garantia": "12 meses"
+  },
+  {
+    "categoria": "tablet",
+    "marca": "Amazon",
+    "modelo": "Fire HD 10",
+    "cor": "azul",
+    "preco": 1200,
+    "descricao": "Tablet Amazon Fire HD 10 com tela de 10.1 polegadas e 32GB de armazenamento.",
+    "avaliacao": 4.4,
+    "disponibilidade": "Em estoque",
+    "garantia": "12 meses"
+  },
+  {
+    "categoria": "tablet",
+    "marca": "Huawei",
+    "modelo": "MatePad 11",
+    "cor": "cinza",
+    "preco": 2000,
+    "descricao": "Tablet Huawei MatePad 11 com tela de 11 polegadas e 128GB de armazenamento.",
+    "avaliacao": 4.3,
+    "disponibilidade": "Em estoque",
+    "garantia": "12 meses"
+  },
+  {
+    "categoria": "tablet",
+    "marca": "Realme",
+    "modelo": "Pad Mini",
+    "cor": "verde",
+    "preco": 900,
+    "descricao": "Tablet Realme Pad Mini com tela de 8.7 polegadas e 32GB de armazenamento.",
+    "avaliacao": 4.0,
+    "disponibilidade": "Em estoque",
+    "garantia": "12 meses"
+  },
+  {
+    "categoria": "TV",
+    "marca": "Acer",
+    "modelo": "ATV 50",
+    "cor": "azul",
+    "preco": 4000,
+    "descricao": "TV Acer ATV 50 com tela de 50 polegadas e resolução 4K.",
+    "avaliacao": 4.5,
+    "disponibilidade": "Em estoque",
+    "garantia": "12 meses"
+  },
+  {
+    "categoria": "TV",
+    "marca": "Philips",
+    "modelo": "Smart TV 32",
+    "cor": "cinza",
+    "preco": 2000,
+    "descricao": "TV Philips Smart TV 32 com resolução HD e acesso a apps de streaming.",
+    "avaliacao": 4.2,
+    "disponibilidade": "Em estoque",
+    "garantia": "12 meses"
+  },
+  {
+    "categoria": "TV",
+    "marca": "Sony",
+    "modelo": "Bravia 43",
+    "cor": "preto",
+    "preco": 3500,
+    "descricao": "TV Sony Bravia 43 com resolução 4K e plataforma Google TV.",
+    "avaliacao": 4.6,
+    "disponibilidade": "Em estoque",
+    "garantia": "12 meses"
+  },
+  {
+    "categoria": "TV",
+    "marca": "Samsung",
+    "modelo": "The Frame",
+    "cor": "dourado",
+    "preco": 9000,
+    "descricao": "TV Samsung The Frame que se transforma em uma obra de arte quando desligada.",
+    "avaliacao": 4.8,
+    "disponibilidade": "Em estoque",
+    "garantia": "12 meses"
+  },
+  {
+    "categoria": "TV",
+    "marca": "LG",
+    "modelo": "NanoCell 65",
+    "cor": "roxo",
+    "preco": 9500,
+    "descricao": "TV LG NanoCell 65 com tecnologia de nanopartículas para cores puras.",
+    "avaliacao": 4.7,
+    "disponibilidade": "Em estoque",
+    "garantia": "12 meses"
+  },
+  {
+    "categoria": "smartwatch",
+    "marca": "Philips",
+    "modelo": "SWA5200",
+    "cor": "azul",
+    "preco": 600,
+    "descricao": "Smartwatch Philips com monitoramento de atividades e design moderno.",
+    "avaliacao": 4.2,
+    "disponibilidade": "Em estoque",
+    "garantia": "12 meses"
+  },
+  {
+    "categoria": "smartwatch",
+    "marca": "Realme",
+    "modelo": "Watch S",
+    "cor": "preto",
+    "preco": 800,
+    "descricao": "Smartwatch Realme Watch S com monitoramento de oxigênio no sangue.",
+    "avaliacao": 4.5,
+    "disponibilidade": "Em estoque",
+    "garantia": "12 meses"
+  },
+  {
+    "categoria": "smartwatch",
+    "marca": "Motorola",
+    "modelo": "Moto 360",
+    "cor": "cinza",
+    "preco": 1200,
+    "descricao": "Smartwatch Motorola Moto 360 com design clássico e Wear OS.",
+    "avaliacao": 4.4,
+    "disponibilidade": "Em estoque",
+    "garantia": "12 meses"
+  },
+  {
+    "categoria": "smartwatch",
+    "marca": "Acer",
+    "modelo": "Leap Ware",
+    "cor": "verde",
+    "preco": 700,
+    "descricao": "Smartwatch Acer Leap Ware com foco em saúde e bem-estar.",
+    "avaliacao": 4.1,
+    "disponibilidade": "Em estoque",
+    "garantia": "12 meses"
+  },
+  {
+    "categoria": "smartwatch",
+    "marca": "Logitech",
+    "modelo": "Pop Watch",
+    "cor": "laranja",
+    "preco": 500,
+    "descricao": "Smartwatch Logitech Pop com design divertido e mostradores personalizáveis.",
+    "avaliacao": 4.0,
+    "disponibilidade": "Em estoque",
+    "garantia": "12 meses"
+  },
+  {
+    "categoria": "câmera",
+    "marca": "Philips",
+    "modelo": "Action Cam",
+    "cor": "azul",
+    "preco": 900,
+    "descricao": "Câmera de ação Philips para registrar todos os seus momentos de aventura.",
+    "avaliacao": 4.2,
+    "disponibilidade": "Em estoque",
+    "garantia": "12 meses"
+  },
+  {
+    "categoria": "câmera",
+    "marca": "Logitech",
+    "modelo": "C920s Pro",
+    "cor": "preto",
+    "preco": 600,
+    "descricao": "Webcam Logitech C920s Pro com qualidade de vídeo Full HD.",
+    "avaliacao": 4.7,
+    "disponibilidade": "Em estoque",
+    "garantia": "12 meses"
+  },
+  {
+    "categoria": "câmera",
+    "marca": "Canon",
+    "modelo": "EOS 90D",
+    "cor": "cinza",
+    "preco": 5000,
+    "descricao": "Câmera DSLR Canon EOS 90D com sensor de 32.5MP e gravação 4K.",
+    "avaliacao": 4.8,
+    "disponibilidade": "Em estoque",
+    "garantia": "12 meses"
+  },
+  {
+    "categoria": "câmera",
+    "marca": "Sony",
+    "modelo": "Alpha ZV-E10",
+    "cor": "branco",
+    "preco": 3500,
+    "descricao": "Câmera mirrorless Sony Alpha ZV-E10 ideal para vlogging.",
+    "avaliacao": 4.7,
+    "disponibilidade": "Em estoque",
+    "garantia": "12 meses"
+  },
+  {
+    "categoria": "câmera",
+    "marca": "GoPro",
+    "modelo": "Max",
+    "cor": "preto",
+    "preco": 4000,
+    "descricao": "Câmera 360 GoPro Max com estabilização Max HyperSmooth.",
+    "avaliacao": 4.6,
+    "disponibilidade": "Em estoque",
+    "garantia": "12 meses"
+  },
+  {
+    "categoria": "monitor",
+    "marca": "Philips",
+    "modelo": "242V8A",
+    "cor": "azul",
+    "preco": 900,
+    "descricao": "Monitor Philips de 24 polegadas com painel IPS e design sem bordas.",
+    "avaliacao": 4.5,
+    "disponibilidade": "Em estoque",
+    "garantia": "12 meses"
+  },
+  {
+    "categoria": "monitor",
+    "marca": "Sony",
+    "modelo": "Bravia Monitor",
+    "cor": "preto",
+    "preco": 2000,
+    "descricao": "Monitor profissional Sony Bravia com qualidade de imagem superior.",
+    "avaliacao": 4.7,
+    "disponibilidade": "Em estoque",
+    "garantia": "12 meses"
+  },
+  {
+    "categoria": "monitor",
+    "marca": "Logitech",
+    "modelo": "MX Display",
+    "cor": "cinza",
+    "preco": 1200,
+    "descricao": "Monitor Logitech MX Display com design ergonômico e alta resolução.",
+    "avaliacao": 4.6,
+    "disponibilidade": "Em estoque",
+    "garantia": "12 meses"
+  },
+  {
+    "categoria": "monitor",
+    "marca": "Realme",
+    "modelo": "Display 24",
+    "cor": "branco",
+    "preco": 800,
+    "descricao": "Monitor Realme de 24 polegadas com design fino e moderno.",
+    "avaliacao": 4.3,
+    "disponibilidade": "Em estoque",
+    "garantia": "12 meses"
+  },
+  {
+    "categoria": "monitor",
+    "marca": "Motorola",
+    "modelo": "Vision 27",
+    "cor": "preto",
+    "preco": 1500,
+    "descricao": "Monitor Motorola Vision de 27 polegadas com tela imersiva.",
+    "avaliacao": 4.4,
+    "disponibilidade": "Em estoque",
+    "garantia": "12 meses"
+  },
+  {
+    "categoria": "impressora",
+    "marca": "Philips",
+    "modelo": "LaserJet 1000",
+    "cor": "preto",
+    "preco": 700,
+    "descricao": "Impressora a laser Philips com alta velocidade de impressão.",
+    "avaliacao": 4.3,
+    "disponibilidade": "Em estoque",
+    "garantia": "12 meses"
+  },
+  {
+    "categoria": "impressora",
+    "marca": "Logitech",
+    "modelo": "Print Pro",
+    "cor": "branco",
+    "preco": 900,
+    "descricao": "Impressora multifuncional Logitech com impressão de alta qualidade.",
+    "avaliacao": 4.5,
+    "disponibilidade": "Em estoque",
+    "garantia": "12 meses"
+  },
+  {
+    "categoria": "impressora",
+    "marca": "Acer",
+    "modelo": "Laser 2000",
+    "cor": "azul",
+    "preco": 1200,
+    "descricao": "Impressora a laser Acer para ambientes de escritório.",
+    "avaliacao": 4.4,
+    "disponibilidade": "Em estoque",
+    "garantia": "12 meses"
+  },
+  {
+    "categoria": "impressora",
+    "marca": "Realme",
+    "modelo": "Print Mini",
+    "cor": "verde",
+    "preco": 600,
+    "descricao": "Impressora fotográfica portátil Realme.",
+    "avaliacao": 4.2,
+    "disponibilidade": "Em estoque",
+    "garantia": "12 meses"
+  },
+  {
+    "categoria": "impressora",
+    "marca": "Motorola",
+    "modelo": "Print 500",
+    "cor": "vermelho",
+    "preco": 800,
+    "descricao": "Impressora multifuncional Motorola com conectividade sem fio.",
+    "avaliacao": 4.3,
+    "disponibilidade": "Em estoque",
+    "garantia": "12 meses"
+  },
+  {
+    "categoria": "roteador",
+    "marca": "Philips",
+    "modelo": "WiFi 6",
+    "cor": "azul",
+    "preco": 350,
+    "descricao": "Roteador Philips com tecnologia Wi-Fi 6 para maior velocidade.",
+    "avaliacao": 4.5,
+    "disponibilidade": "Em estoque",
+    "garantia": "12 meses"
+  },
+  {
+    "categoria": "roteador",
+    "marca": "Sony",
+    "modelo": "Smart Router",
+    "cor": "preto",
+    "preco": 400,
+    "descricao": "Roteador inteligente Sony com gerenciamento via aplicativo.",
+    "avaliacao": 4.6,
+    "disponibilidade": "Em estoque",
+    "garantia": "12 meses"
+  },
+  {
+    "categoria": "roteador",
+    "marca": "Logitech",
+    "modelo": "Mesh Pro",
+    "cor": "branco",
+    "preco": 300,
+    "descricao": "Sistema de roteadores mesh Logitech para cobertura total.",
+    "avaliacao": 4.7,
+    "disponibilidade": "Em estoque",
+    "garantia": "12 meses"
+  },
+  {
+    "categoria": "roteador",
+    "marca": "Realme",
+    "modelo": "WiFi 5",
+    "cor": "verde",
+    "preco": 200,
+    "descricao": "Roteador Realme com bom custo-benefício e tecnologia Wi-Fi 5.",
+    "avaliacao": 4.3,
+    "disponibilidade": "Em estoque",
+    "garantia": "12 meses"
+  },
+  {
+    "categoria": "roteador",
+    "marca": "Motorola",
+    "modelo": "Router 1000",
+    "cor": "vermelho",
+    "preco": 250,
+    "descricao": "Roteador Motorola com alta potência e design moderno.",
+    "avaliacao": 4.4,
+    "disponibilidade": "Em estoque",
+    "garantia": "12 meses"
+  },
+  {
+    "categoria": "console",
+    "marca": "Philips",
+    "modelo": "GameBox",
+    "cor": "azul",
+    "preco": 700,
+    "descricao": "Console de jogos retrô Philips com centenas de jogos clássicos.",
+    "avaliacao": 4.1,
+    "disponibilidade": "Em estoque",
+    "garantia": "12 meses"
+  },
+  {
+    "categoria": "console",
+    "marca": "Logitech",
+    "modelo": "G Console",
+    "cor": "preto",
+    "preco": 1200,
+    "descricao": "Console portátil para jogos em nuvem, com tela de alta definição e controles integrados.",
+    "avaliacao": 4.6,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "console",
+    "marca": "Realme",
+    "modelo": "Play Mini",
+    "cor": "verde",
+    "preco": 900,
+    "descricao": "Mini console de jogos com design compacto e uma vasta biblioteca de jogos retrô.",
+    "avaliacao": 4.3,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "console",
+    "marca": "Acer",
+    "modelo": "GameStation",
+    "cor": "cinza",
+    "preco": 1500,
+    "descricao": "Estação de jogos completa com hardware potente e suporte para jogos em 4K.",
+    "avaliacao": 4.7,
+    "disponibilidade": "estoque",
+    "garantia": "2 anos"
+  },
+  {
+    "categoria": "console",
+    "marca": "Motorola",
+    "modelo": "Game 500",
+    "cor": "vermelho",
+    "preco": 800,
+    "descricao": "Console de jogos acessível com foco em jogos casuais e para a família.",
+    "avaliacao": 4.2,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "projetor",
+    "marca": "Philips",
+    "modelo": "NeoPix Easy",
+    "cor": "azul",
+    "preco": 900,
+    "descricao": "Projetor compacto e fácil de usar, ideal para filmes e apresentações.",
+    "avaliacao": 4.4,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "projetor",
+    "marca": "Logitech",
+    "modelo": "Beam Pro",
+    "cor": "preto",
+    "preco": 1200,
+    "descricao": "Projetor de alta luminosidade com qualidade de imagem profissional para home cinema.",
+    "avaliacao": 4.8,
+    "disponibilidade": "estoque",
+    "garantia": "2 anos"
+  },
+  {
+    "categoria": "projetor",
+    "marca": "Realme",
+    "modelo": "Project Mini",
+    "cor": "verde",
+    "preco": 700,
+    "descricao": "Mini projetor portátil com bateria integrada, perfeito para viagens.",
+    "avaliacao": 4.1,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "projetor",
+    "marca": "Motorola",
+    "modelo": "Project 500",
+    "cor": "vermelho",
+    "preco": 1000,
+    "descricao": "Projetor versátil com boa qualidade de imagem e múltiplas opções de conectividade.",
+    "avaliacao": 4.5,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "projetor",
+    "marca": "Acer",
+    "modelo": "Laser 3000",
+    "cor": "cinza",
+    "preco": 1500,
+    "descricao": "Projetor a laser com imagem ultranítida e longa vida útil da fonte de luz.",
+    "avaliacao": 4.9,
+    "disponibilidade": "estoque",
+    "garantia": "3 anos"
+  },
+  {
+    "categoria": "drone",
+    "marca": "Philips",
+    "modelo": "Flyer 100",
+    "cor": "azul",
+    "preco": 1200,
+    "descricao": "Drone fácil de pilotar para iniciantes, com câmera HD e estabilização de imagem.",
+    "avaliacao": 4.3,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "drone",
+    "marca": "Logitech",
+    "modelo": "Sky Pro",
+    "cor": "preto",
+    "preco": 1500,
+    "descricao": "Drone profissional com câmera 4K, longo alcance e funções de voo autônomas.",
+    "avaliacao": 4.8,
+    "disponibilidade": "estoque",
+    "garantia": "2 anos"
+  },
+  {
+    "categoria": "drone",
+    "marca": "Realme",
+    "modelo": "Air Mini",
+    "cor": "verde",
+    "preco": 900,
+    "descricao": "Drone compacto e leve, ideal para viagens e captura de imagens aéreas casuais.",
+    "avaliacao": 4.2,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "drone",
+    "marca": "Motorola",
+    "modelo": "Drone 500",
+    "cor": "vermelho",
+    "preco": 800,
+    "descricao": "Drone de bom custo-benefício com câmera Full HD e tempo de voo decente.",
+    "avaliacao": 4.0,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "drone",
+    "marca": "Acer",
+    "modelo": "Fly 3000",
+    "cor": "cinza",
+    "preco": 2000,
+    "descricao": "Drone de alta performance com sensores avançados e qualidade de imagem superior.",
+    "avaliacao": 4.9,
+    "disponibilidade": "estoque",
+    "garantia": "2 anos"
+  },
+  {
+    "categoria": "HD externo",
+    "marca": "Philips",
+    "modelo": "Storage 1TB",
+    "cor": "azul",
+    "preco": 400,
+    "descricao": "HD externo de 1TB para backup e armazenamento de arquivos, com conexão USB 3.0.",
+    "avaliacao": 4.5,
+    "disponibilidade": "estoque",
+    "garantia": "2 anos"
+  },
+  {
+    "categoria": "HD externo",
+    "marca": "Logitech",
+    "modelo": "Drive Pro",
+    "cor": "preto",
+    "preco": 600,
+    "descricao": "HD externo robusto e seguro, ideal para profissionais que precisam de portabilidade.",
+    "avaliacao": 4.7,
+    "disponibilidade": "estoque",
+    "garantia": "3 anos"
+  },
+  {
+    "categoria": "HD externo",
+    "marca": "Realme",
+    "modelo": "Disk Mini",
+    "cor": "verde",
+    "preco": 350,
+    "descricao": "HD externo compacto e leve, perfeito para transportar seus arquivos com estilo.",
+    "avaliacao": 4.3,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "HD externo",
+    "marca": "Motorola",
+    "modelo": "HD 500",
+    "cor": "vermelho",
+    "preco": 500,
+    "descricao": "HD externo com design moderno e boa capacidade de armazenamento para o dia a dia.",
+    "avaliacao": 4.4,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "HD externo",
+    "marca": "Acer",
+    "modelo": "Storage 2TB",
+    "cor": "cinza",
+    "preco": 700,
+    "descricao": "HD externo de 2TB com alta capacidade para armazenar todos os seus dados importantes.",
+    "avaliacao": 4.6,
+    "disponibilidade": "estoque",
+    "garantia": "2 anos"
+  },
+  {
+    "categoria": "SSD",
+    "marca": "Philips",
+    "modelo": "Flash 500GB",
+    "cor": "azul",
+    "preco": 400,
+    "descricao": "SSD de 500GB para upgrade de performance em notebooks e desktops.",
+    "avaliacao": 4.8,
+    "disponibilidade": "estoque",
+    "garantia": "3 anos"
+  },
+  {
+    "categoria": "SSD",
+    "marca": "Logitech",
+    "modelo": "SSD Pro",
+    "cor": "preto",
+    "preco": 600,
+    "descricao": "SSD de alta performance para gamers e profissionais que exigem velocidade máxima.",
+    "avaliacao": 4.9,
+    "disponibilidade": "estoque",
+    "garantia": "5 anos"
+  },
+  {
+    "categoria": "SSD",
+    "marca": "Realme",
+    "modelo": "SSD Mini",
+    "cor": "verde",
+    "preco": 350,
+    "descricao": "SSD compacto e rápido, ideal para dar um boost de velocidade em ultrabooks.",
+    "avaliacao": 4.7,
+    "disponibilidade": "estoque",
+    "garantia": "3 anos"
+  },
+  {
+    "categoria": "SSD",
+    "marca": "Motorola",
+    "modelo": "SSD 500",
+    "cor": "vermelho",
+    "preco": 300,
+    "descricao": "SSD com bom custo-benefício para uma atualização de sistema rápida e acessível.",
+    "avaliacao": 4.6,
+    "disponibilidade": "estoque",
+    "garantia": "2 anos"
+  },
+  {
+    "categoria": "SSD",
+    "marca": "Acer",
+    "modelo": "Flash 1TB",
+    "cor": "cinza",
+    "preco": 800,
+    "descricao": "SSD de 1TB com excelente capacidade e velocidade para armazenar jogos e arquivos pesados.",
+    "avaliacao": 4.8,
+    "disponibilidade": "estoque",
+    "garantia": "3 anos"
+  },
+  {
+    "categoria": "carregador",
+    "marca": "Philips",
+    "modelo": "Fast Charger 20W",
+    "cor": "azul",
+    "preco": 120,
+    "descricao": "Carregador rápido de 20W para recarregar seus dispositivos com eficiência.",
+    "avaliacao": 4.5,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "carregador",
+    "marca": "Logitech",
+    "modelo": "QuickCharge",
+    "cor": "preto",
+    "preco": 100,
+    "descricao": "Carregador com tecnologia QuickCharge para um carregamento ultrarrápido.",
+    "avaliacao": 4.6,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "carregador",
+    "marca": "Realme",
+    "modelo": "Dart Charger",
+    "cor": "verde",
+    "preco": 90,
+    "descricao": "Carregador Dart da Realme, conhecido por sua velocidade e segurança.",
+    "avaliacao": 4.7,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "carregador",
+    "marca": "Motorola",
+    "modelo": "Charger 500",
+    "cor": "vermelho",
+    "preco": 80,
+    "descricao": "Carregador TurboPower da Motorola para recargas rápidas e seguras.",
+    "avaliacao": 4.5,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "carregador",
+    "marca": "Acer",
+    "modelo": "Power 30W",
+    "cor": "cinza",
+    "preco": 150,
+    "descricao": "Carregador potente de 30W, capaz de carregar notebooks e outros dispositivos.",
+    "avaliacao": 4.8,
+    "disponibilidade": "estoque",
+    "garantia": "2 anos"
+  },
+  {
+    "categoria": "leitor digital",
+    "marca": "Philips",
+    "modelo": "eReader 7",
+    "cor": "azul",
+    "preco": 700,
+    "descricao": "Leitor digital com tela de 7 polegadas e iluminação ajustável para uma leitura confortável.",
+    "avaliacao": 4.6,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "leitor digital",
+    "marca": "Logitech",
+    "modelo": "Book Pro",
+    "cor": "preto",
+    "preco": 900,
+    "descricao": "Leitor digital premium com tela de alta resolução e design à prova d'água.",
+    "avaliacao": 4.8,
+    "disponibilidade": "estoque",
+    "garantia": "2 anos"
+  },
+  {
+    "categoria": "leitor digital",
+    "marca": "Realme",
+    "modelo": "Read Mini",
+    "cor": "verde",
+    "preco": 600,
+    "descricao": "Leitor digital compacto e leve, ideal para ler em qualquer lugar.",
+    "avaliacao": 4.5,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "leitor digital",
+    "marca": "Motorola",
+    "modelo": "Reader 500",
+    "cor": "vermelho",
+    "preco": 800,
+    "descricao": "Leitor digital com tela antirreflexo e bateria de longa duração.",
+    "avaliacao": 4.4,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "leitor digital",
+    "marca": "Acer",
+    "modelo": "Book 10",
+    "cor": "cinza",
+    "preco": 1000,
+    "descricao": "Leitor digital com tela de 10 polegadas, ideal para leitura de quadrinhos e PDFs.",
+    "avaliacao": 4.7,
+    "disponibilidade": "estoque",
+    "garantia": "2 anos"
+  },
+  {
+    "categoria": "celular",
+    "marca": "Apple",
+    "modelo": "iPhone 12",
+    "cor": "preto",
+    "preco": 3999,
+    "descricao": "iPhone 12 com tela Super Retina XDR, chip A14 Bionic e sistema de câmera dupla.",
+    "avaliacao": 4.9,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "notebook",
+    "marca": "Dell",
+    "modelo": "Inspiron 15",
+    "cor": "cinza",
+    "preco": 3500,
+    "descricao": "Notebook Dell Inspiron 15 com processador Intel Core i5, 8GB de RAM e SSD de 256GB.",
+    "avaliacao": 4.7,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "notebook",
+    "marca": "Lenovo",
+    "modelo": "ThinkPad X1",
+    "cor": "preto",
+    "preco": 8000,
+    "descricao": "Notebook premium Lenovo ThinkPad X1 Carbon, ultrafino, leve e potente.",
+    "avaliacao": 4.9,
+    "disponibilidade": "estoque",
+    "garantia": "3 anos"
+  },
+  {
+    "categoria": "fone de ouvido",
+    "marca": "JBL",
+    "modelo": "Tune 500BT",
+    "cor": "azul",
+    "preco": 400,
+    "descricao": "Fone de ouvido on-ear sem fio JBL Tune 500BT com som JBL Pure Bass.",
+    "avaliacao": 4.6,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "tablet",
+    "marca": "Samsung",
+    "modelo": "Galaxy Tab S7",
+    "cor": "preto",
+    "preco": 2500,
+    "descricao": "Tablet Samsung Galaxy Tab S7 com tela de 11 polegadas, S Pen e alta performance.",
+    "avaliacao": 4.8,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "TV",
+    "marca": "LG",
+    "modelo": "OLED55",
+    "cor": "preto",
+    "preco": 7000,
+    "descricao": "Smart TV LG OLED 55 polegadas com resolução 4K, inteligência artificial ThinQ AI e som Dolby Atmos.",
+    "avaliacao": 4.9,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "smartwatch",
+    "marca": "Apple",
+    "modelo": "Watch Series 7",
+    "cor": "prata",
+    "preco": 3500,
+    "descricao": "Apple Watch Series 7 com tela maior, design resistente e recursos avançados de saúde.",
+    "avaliacao": 4.9,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "câmera",
+    "marca": "Canon",
+    "modelo": "EOS Rebel T7",
+    "cor": "preto",
+    "preco": 2500,
+    "descricao": "Câmera DSLR Canon EOS Rebel T7 com sensor de 24.1 MP e gravação de vídeos em Full HD.",
+    "avaliacao": 4.7,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "monitor",
+    "marca": "Philips",
+    "modelo": "243V7Q",
+    "cor": "preto",
+    "preco": 900,
+    "descricao": "Monitor Philips de 23.8 polegadas com resolução Full HD e tecnologia IPS para cores vivas.",
+    "avaliacao": 4.6,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "impressora",
+    "marca": "HP",
+    "modelo": "DeskJet 2774",
+    "cor": "branco",
+    "preco": 600,
+    "descricao": "Impressora multifuncional HP DeskJet 2774, ideal para uso doméstico, com conexão sem fio.",
+    "avaliacao": 4.5,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "roteador",
+    "marca": "TP-Link",
+    "modelo": "Archer C6",
+    "cor": "preto",
+    "preco": 300,
+    "descricao": "Roteador TP-Link Archer C6 com tecnologia Wi-Fi AC1200 para uma conexão rápida e estável.",
+    "avaliacao": 4.7,
+    "disponibilidade": "estoque",
+    "garantia": "2 anos"
+  },
+  {
+    "categoria": "console",
+    "marca": "Sony",
+    "modelo": "PlayStation 5",
+    "cor": "branco",
+    "preco": 5500,
+    "descricao": "Console PlayStation 5 com leitor de Blu-ray, SSD ultrarrápido e controle DualSense.",
+    "avaliacao": 4.9,
+    "disponibilidade": "esgotado",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "projetor",
+    "marca": "Acer",
+    "modelo": "X1123H",
+    "cor": "preto",
+    "preco": 2000,
+    "descricao": "Projetor Acer X1123H com 3.600 lúmens e alta taxa de contraste para imagens nítidas.",
+    "avaliacao": 4.6,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "drone",
+    "marca": "DJI",
+    "modelo": "Mini 2",
+    "cor": "cinza",
+    "preco": 4500,
+    "descricao": "Drone DJI Mini 2, ultraleve e dobrável, com câmera 4K e tempo de voo de 31 minutos.",
+    "avaliacao": 4.8,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "HD externo",
+    "marca": "Seagate",
+    "modelo": "Expansion 2TB",
+    "cor": "preto",
+    "preco": 500,
+    "descricao": "HD externo Seagate Expansion de 2TB, portátil e fácil de usar para armazenamento extra.",
+    "avaliacao": 4.7,
+    "disponibilidade": "estoque",
+    "garantia": "2 anos"
+  },
+  {
+    "categoria": "SSD",
+    "marca": "Kingston",
+    "modelo": "A400 480GB",
+    "cor": "preto",
+    "preco": 350,
+    "descricao": "SSD Kingston A400 de 480GB, ideal para melhorar o desempenho de computadores e notebooks.",
+    "avaliacao": 4.8,
+    "disponibilidade": "estoque",
+    "garantia": "3 anos"
+  },
+  {
+    "categoria": "carregador",
+    "marca": "Xiaomi",
+    "modelo": "Mi Charger 33W",
+    "cor": "branco",
+    "preco": 120,
+    "descricao": "Carregador rápido Xiaomi de 33W com porta USB-C, compatível com diversos dispositivos.",
+    "avaliacao": 4.7,
+    "disponibilidade": "estoque",
+    "garantia": "6 meses"
+  },
+  {
+    "categoria": "leitor digital",
+    "marca": "Amazon",
+    "modelo": "Kindle 11ª Geração",
+    "cor": "preto",
+    "preco": 500,
+    "descricao": "Novo Kindle 11ª Geração com tela de 6 polegadas de alta resolução e iluminação embutida.",
+    "avaliacao": 4.9,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "celular",
+    "marca": "Motorola",
+    "modelo": "Moto G100",
+    "cor": "azul",
+    "preco": 2500,
+    "descricao": "Smartphone Motorola Moto G100 com tecnologia Ready For, 5G e câmera de 64 MP.",
+    "avaliacao": 4.6,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "notebook",
+    "marca": "Asus",
+    "modelo": "VivoBook 15",
+    "cor": "prata",
+    "preco": 3200,
+    "descricao": "Notebook Asus VivoBook 15 com tela NanoEdge, leve e compacto para o dia a dia.",
+    "avaliacao": 4.5,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "fone de ouvido",
+    "marca": "Sony",
+    "modelo": "WH-1000XM4",
+    "cor": "preto",
+    "preco": 1500,
+    "descricao": "Fone de ouvido sem fio Sony WH-1000XM4 com cancelamento de ruído líder do setor.",
+    "avaliacao": 4.9,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "tablet",
+    "marca": "Apple",
+    "modelo": "iPad Air",
+    "cor": "rosa",
+    "preco": 4000,
+    "descricao": "Novo iPad Air com chip M1, tela Liquid Retina de 10.9 polegadas e design fino e leve.",
+    "avaliacao": 4.9,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "TV",
+    "marca": "Samsung",
+    "modelo": "QLED 4K",
+    "cor": "preto",
+    "preco": 6000,
+    "descricao": "Smart TV Samsung QLED 4K com pontos quânticos para cores mais puras e vibrantes.",
+    "avaliacao": 4.8,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "smartwatch",
+    "marca": "Xiaomi",
+    "modelo": "Mi Watch Lite",
+    "cor": "preto",
+    "preco": 700,
+    "descricao": "Smartwatch Xiaomi Mi Watch Lite com GPS integrado, monitoramento cardíaco e bateria de longa duração.",
+    "avaliacao": 4.5,
+    "disponibilidade": "estoque",
+    "garantia": "6 meses"
+  },
+  {
+    "categoria": "câmera",
+    "marca": "GoPro",
+    "modelo": "Hero 10",
+    "cor": "preto",
+    "preco": 3500,
+    "descricao": "Câmera de ação GoPro Hero 10 Black com novo processador GP2, vídeos em 5.3K e estabilização HyperSmooth 4.0.",
+    "avaliacao": 4.8,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "monitor",
+    "marca": "Acer",
+    "modelo": "Nitro VG240Y",
+    "cor": "preto",
+    "preco": 1100,
+    "descricao": "Monitor gamer Acer Nitro VG240Y de 23.8 polegadas, Full HD, 144Hz e 1ms de tempo de resposta.",
+    "avaliacao": 4.7,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "impressora",
+    "marca": "Epson",
+    "modelo": "EcoTank L3250",
+    "cor": "preto",
+    "preco": 1200,
+    "descricao": "Impressora multifuncional Epson EcoTank L3250 com tanques de tinta de alta capacidade e conectividade Wi-Fi.",
+    "avaliacao": 4.8,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "roteador",
+    "marca": "Huawei",
+    "modelo": "AX3 Quad-Core",
+    "cor": "branco",
+    "preco": 400,
+    "descricao": "Roteador Huawei Wi-Fi 6 Plus AX3 Quad-Core para uma cobertura de sinal mais forte e velocidades mais rápidas.",
+    "avaliacao": 4.7,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "console",
+    "marca": "Nintendo",
+    "modelo": "Switch OLED",
+    "cor": "branco",
+    "preco": 3500,
+    "descricao": "Nintendo Switch (modelo OLED) com tela de 7 polegadas, cores vibrantes e suporte ajustável.",
+    "avaliacao": 4.9,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "celular",
+    "marca": "Xiaomi",
+    "modelo": "Redmi Note 11",
+    "cor": "azul",
+    "preco": 1500,
+    "descricao": "Smartphone Xiaomi Redmi Note 11 com tela AMOLED de 90Hz, câmera de 50MP e carregamento rápido de 33W.",
+    "avaliacao": 4.6,
+    "disponibilidade": "estoque",
+    "garantia": "6 meses"
+  },
+  {
+    "categoria": "notebook",
+    "marca": "HP",
+    "modelo": "Pavilion 14",
+    "cor": "prata",
+    "preco": 4000,
+    "descricao": "Notebook HP Pavilion 14 com design elegante, processador Intel Core i5 e áudio B&O.",
+    "avaliacao": 4.5,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "fone de ouvido",
+    "marca": "Philips",
+    "modelo": "TAUH202BK",
+    "cor": "preto",
+    "preco": 300,
+    "descricao": "Fone de ouvido sem fio Philips com design leve e confortável, e som nítido.",
+    "avaliacao": 4.4,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "tablet",
+    "marca": "Lenovo",
+    "modelo": "Tab P11",
+    "cor": "cinza",
+    "preco": 2000,
+    "descricao": "Tablet Lenovo Tab P11 com tela 2K de 11 polegadas e quatro alto-falantes com Dolby Atmos.",
+    "avaliacao": 4.7,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "TV",
+    "marca": "Sony",
+    "modelo": "Bravia X80J",
+    "cor": "preto",
+    "preco": 8000,
+    "descricao": "Smart TV Sony Bravia X80J com tela 4K HDR, processador X1 e plataforma Google TV.",
+    "avaliacao": 4.8,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "smartwatch",
+    "marca": "Samsung",
+    "modelo": "Galaxy Watch 4",
+    "cor": "verde",
+    "preco": 1200,
+    "descricao": "Smartwatch Samsung Galaxy Watch 4 com monitoramento de bioimpedância e sistema operacional Wear OS.",
+    "avaliacao": 4.7,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "câmera",
+    "marca": "Sony",
+    "modelo": "Alpha a6000",
+    "cor": "preto",
+    "preco": 3500,
+    "descricao": "Câmera mirrorless Sony Alpha a6000 com sensor de 24.3 MP e foco automático rápido.",
+    "avaliacao": 4.8,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "monitor",
+    "marca": "LG",
+    "modelo": "UltraWide 29WK600",
+    "cor": "preto",
+    "preco": 1300,
+    "descricao": "Monitor LG UltraWide de 29 polegadas com formato 21:9, ideal para multitarefa.",
+    "avaliacao": 4.7,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "impressora",
+    "marca": "Canon",
+    "modelo": "Pixma G3110",
+    "cor": "preto",
+    "preco": 900,
+    "descricao": "Impressora multifuncional Canon Mega Tank G3110 com tanques de tinta integrados e alta capacidade de impressão.",
+    "avaliacao": 4.6,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "roteador",
+    "marca": "Multilaser",
+    "modelo": "RE163",
+    "cor": "branco",
+    "preco": 200,
+    "descricao": "Roteador Multilaser com 3 antenas para uma melhor distribuição de sinal Wi-Fi.",
+    "avaliacao": 4.3,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "console",
+    "marca": "Microsoft",
+    "modelo": "Xbox Series S",
+    "cor": "branco",
+    "preco": 3000,
+    "descricao": "Console Xbox Series S, totalmente digital, com SSD personalizado e jogos em 1440p.",
+    "avaliacao": 4.8,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "projetor",
+    "marca": "LG",
+    "modelo": "CineBeam PH550",
+    "cor": "branco",
+    "preco": 2500,
+    "descricao": "Projetor portátil LG CineBeam com bateria integrada, conexão Bluetooth e imagem HD.",
+    "avaliacao": 4.7,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "drone",
+    "marca": "DJI",
+    "modelo": "Mavic Air 2",
+    "cor": "cinza",
+    "preco": 7000,
+    "descricao": "Drone DJI Mavic Air 2 com câmera 4K, fotos de 48MP e tempo de voo de 34 minutos.",
+    "avaliacao": 4.9,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "HD externo",
+    "marca": "Western Digital",
+    "modelo": "Elements 1TB",
+    "cor": "preto",
+    "preco": 350,
+    "descricao": "HD externo Western Digital Elements de 1TB, confiável e com design compacto.",
+    "avaliacao": 4.7,
+    "disponibilidade": "estoque",
+    "garantia": "2 anos"
+  },
+  {
+    "categoria": "SSD",
+    "marca": "Samsung",
+    "modelo": "EVO 860 1TB",
+    "cor": "preto",
+    "preco": 900,
+    "descricao": "SSD Samsung 860 EVO de 1TB com tecnologia V-NAND para um desempenho rápido e confiável.",
+    "avaliacao": 4.9,
+    "disponibilidade": "estoque",
+    "garantia": "5 anos"
+  },
+  {
+    "categoria": "carregador",
+    "marca": "Motorola",
+    "modelo": "TurboPower 20W",
+    "cor": "preto",
+    "preco": 100,
+    "descricao": "Carregador Motorola TurboPower 20W para um carregamento rápido e eficiente.",
+    "avaliacao": 4.6,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "leitor digital",
+    "marca": "Amazon",
+    "modelo": "Kindle Paperwhite",
+    "cor": "branco",
+    "preco": 800,
+    "descricao": "Kindle Paperwhite com tela de 6.8 polegadas, à prova d'água e iluminação ajustável.",
+    "avaliacao": 4.9,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "celular",
+    "marca": "Realme",
+    "modelo": "8 Pro",
+    "cor": "azul",
+    "preco": 1800,
+    "descricao": "Smartphone Realme 8 Pro com câmera de 108MP e carregamento SuperDart de 50W.",
+    "avaliacao": 4.7,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "notebook",
+    "marca": "Acer",
+    "modelo": "Aspire 5",
+    "cor": "prata",
+    "preco": 3500,
+    "descricao": "Notebook Acer Aspire 5 com processador AMD Ryzen 7 e design fino e leve.",
+    "avaliacao": 4.6,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "fone de ouvido",
+    "marca": "JBL",
+    "modelo": "Quantum 100",
+    "cor": "branco",
+    "preco": 250,
+    "descricao": "Headset gamer JBL Quantum 100 com som imersivo e microfone removível.",
+    "avaliacao": 4.5,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "tablet",
+    "marca": "Multilaser",
+    "modelo": "M10A",
+    "cor": "preto",
+    "preco": 800,
+    "descricao": "Tablet Multilaser M10A com tela de 10 polegadas, 3G e processador Quad Core.",
+    "avaliacao": 4.2,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "TV",
+    "marca": "Philips",
+    "modelo": "50PUG7625",
+    "cor": "preto",
+    "preco": 4000,
+    "descricao": "Smart TV Philips 50 polegadas 4K com Ambilight, Dolby Vision e Dolby Atmos.",
+    "avaliacao": 4.7,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "smartwatch",
+    "marca": "Huawei",
+    "modelo": "Watch GT 2",
+    "cor": "preto",
+    "preco": 900,
+    "descricao": "Smartwatch Huawei Watch GT 2 com bateria de longa duração e monitoramento de atividades físicas.",
+    "avaliacao": 4.6,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "câmera",
+    "marca": "Canon",
+    "modelo": "Powershot SX420",
+    "cor": "vermelho",
+    "preco": 1200,
+    "descricao": "Câmera Canon Powershot SX420 com superzoom óptico de 42x e conectividade Wi-Fi.",
+    "avaliacao": 4.5,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "monitor",
+    "marca": "Samsung",
+    "modelo": "Curved 24",
+    "cor": "branco",
+    "preco": 1000,
+    "descricao": "Monitor curvo Samsung de 24 polegadas para uma experiência de visualização mais imersiva.",
+    "avaliacao": 4.7,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "impressora",
+    "marca": "Brother",
+    "modelo": "HL-1202",
+    "cor": "preto",
+    "preco": 700,
+    "descricao": "Impressora a laser monocromática Brother HL-1202, compacta e eficiente para escritórios.",
+    "avaliacao": 4.6,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "roteador",
+    "marca": "D-Link",
+    "modelo": "DIR-615",
+    "cor": "preto",
+    "preco": 150,
+    "descricao": "Roteador D-Link DIR-615 com duas antenas para uma boa cobertura de sinal em casa.",
+    "avaliacao": 4.4,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "console",
+    "marca": "Sony",
+    "modelo": "PlayStation 4",
+    "cor": "preto",
+    "preco": 2500,
+    "descricao": "Console PlayStation 4 Slim com 1TB de armazenamento e controle DualShock 4.",
+    "avaliacao": 4.8,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "projetor",
+    "marca": "Epson",
+    "modelo": "PowerLite S41+",
+    "cor": "branco",
+    "preco": 1800,
+    "descricao": "Projetor Epson PowerLite S41+ com 3.300 lúmens, ideal para apresentações e entretenimento.",
+    "avaliacao": 4.7,
+    "disponibilidade": "estoque",
+    "garantia": "2 anos"
+  },
+  {
+    "categoria": "drone",
+    "marca": "Multilaser",
+    "modelo": "Eagle Pro",
+    "cor": "preto",
+    "preco": 900,
+    "descricao": "Drone Multilaser Eagle Pro com câmera HD, GPS e função de retorno automático.",
+    "avaliacao": 4.3,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "HD externo",
+    "marca": "Toshiba",
+    "modelo": "Canvio Basics 1TB",
+    "cor": "preto",
+    "preco": 300,
+    "descricao": "HD externo Toshiba Canvio Basics de 1TB, simples e fácil de usar para backup de arquivos.",
+    "avaliacao": 4.6,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "SSD",
+    "marca": "Crucial",
+    "modelo": "BX500 480GB",
+    "cor": "preto",
+    "preco": 400,
+    "descricao": "SSD Crucial BX500 de 480GB para uma inicialização mais rápida e carregamento de arquivos mais veloz.",
+    "avaliacao": 4.7,
+    "disponibilidade": "estoque",
+    "garantia": "3 anos"
+  },
+  {
+    "categoria": "carregador",
+    "marca": "Positivo",
+    "modelo": "Turbo 18W",
+    "cor": "branco",
+    "preco": 80,
+    "descricao": "Carregador Positivo Turbo de 18W, compatível com smartphones e tablets.",
+    "avaliacao": 4.3,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "leitor digital",
+    "marca": "Amazon",
+    "modelo": "Kindle Oasis",
+    "cor": "cinza",
+    "preco": 1200,
+    "descricao": "Kindle Oasis com design ergonômico, botões de virada de página e temperatura de luz ajustável.",
+    "avaliacao": 4.9,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "celular",
+    "marca": "LG",
+    "modelo": "K62+",
+    "cor": "vermelho",
+    "preco": 1200,
+    "descricao": "Smartphone LG K62+ com câmera quádrupla de 48MP e tela grande de 6.6 polegadas.",
+    "avaliacao": 4.4,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "notebook",
+    "marca": "Samsung",
+    "modelo": "Book X40",
+    "cor": "cinza",
+    "preco": 4200,
+    "descricao": "Notebook Samsung Book X40 com processador Intel Core i5 e placa de vídeo dedicada.",
+    "avaliacao": 4.6,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "fone de ouvido",
+    "marca": "Sony",
+    "modelo": "MDR-ZX110",
+    "cor": "branco",
+    "preco": 100,
+    "descricao": "Fone de ouvido Sony MDR-ZX110 com design dobrável e som de alta qualidade.",
+    "avaliacao": 4.5,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "tablet",
+    "marca": "Philips",
+    "modelo": "TAB 7306",
+    "cor": "azul",
+    "preco": 1100,
+    "descricao": "Tablet Philips com tela de 10.1 polegadas e bateria de longa duração para entretenimento.",
+    "avaliacao": 4.4,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "TV",
+    "marca": "Acer",
+    "modelo": "ATV 32",
+    "cor": "preto",
+    "preco": 2000,
+    "descricao": "Smart TV Acer de 32 polegadas com sistema Android TV e controle de voz.",
+    "avaliacao": 4.5,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "smartwatch",
+    "marca": "Realme",
+    "modelo": "Watch 2 Pro",
+    "cor": "cinza",
+    "preco": 600,
+    "descricao": "Smartwatch Realme Watch 2 Pro com GPS de alta precisão e monitoramento de SpO2.",
+    "avaliacao": 4.6,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "câmera",
+    "marca": "GoPro",
+    "modelo": "Hero 9",
+    "cor": "preto",
+    "preco": 2500,
+    "descricao": "Câmera de ação GoPro Hero 9 Black com vídeo 5K, fotos de 20MP e tela frontal.",
+    "avaliacao": 4.8,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "monitor",
+    "marca": "Acer",
+    "modelo": "SB220Q",
+    "cor": "preto",
+    "preco": 800,
+    "descricao": "Monitor Acer SB220Q de 21.5 polegadas, ultrafino, com painel IPS e design ZeroFrame.",
+    "avaliacao": 4.7,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "impressora",
+    "marca": "HP",
+    "modelo": "Laser 107w",
+    "cor": "branco",
+    "preco": 900,
+    "descricao": "Impressora a laser monocromática HP 107w, compacta e com impressão sem fio.",
+    "avaliacao": 4.6,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "roteador",
+    "marca": "TP-Link",
+    "modelo": "TL-WR840N",
+    "cor": "branco",
+    "preco": 120,
+    "descricao": "Roteador TP-Link TL-WR840N de 300Mbps, ideal para tarefas diárias de internet.",
+    "avaliacao": 4.5,
+    "disponibilidade": "estoque",
+    "garantia": "2 anos"
+  },
+  {
+    "categoria": "console",
+    "marca": "Nintendo",
+    "modelo": "Switch Lite",
+    "cor": "azul",
+    "preco": 2000,
+    "descricao": "Nintendo Switch Lite, console portátil, leve e compacto, ideal para jogar em qualquer lugar.",
+    "avaliacao": 4.7,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "projetor",
+    "marca": "Sony",
+    "modelo": "VPL-EX575",
+    "cor": "preto",
+    "preco": 3500,
+    "descricao": "Projetor Sony VPL-EX575 com 4.200 lúmens, ideal para salas de aula e reuniões.",
+    "avaliacao": 4.8,
+    "disponibilidade": "estoque",
+    "garantia": "2 anos"
+  },
+  {
+    "categoria": "drone",
+    "marca": "DJI",
+    "modelo": "Phantom 4",
+    "cor": "branco",
+    "preco": 9500,
+    "descricao": "Drone DJI Phantom 4 Pro com câmera de 1 polegada, 20MP e detecção de obstáculos em 5 direções.",
+    "avaliacao": 4.9,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "HD externo",
+    "marca": "Seagate",
+    "modelo": "Backup Plus 4TB",
+    "cor": "azul",
+    "preco": 900,
+    "descricao": "HD externo Seagate Backup Plus de 4TB com software de backup e design elegante.",
+    "avaliacao": 4.8,
+    "disponibilidade": "estoque",
+    "garantia": "2 anos"
+  },
+  {
+    "categoria": "SSD",
+    "marca": "Kingston",
+    "modelo": "NV1 1TB",
+    "cor": "preto",
+    "preco": 700,
+    "descricao": "SSD Kingston NV1 NVMe de 1TB, ideal para notebooks finos e sistemas com espaço limitado.",
+    "avaliacao": 4.8,
+    "disponibilidade": "estoque",
+    "garantia": "3 anos"
+  },
+  {
+    "categoria": "carregador",
+    "marca": "Samsung",
+    "modelo": "Super Fast 25W",
+    "cor": "preto",
+    "preco": 150,
+    "descricao": "Carregador Samsung Super Fast Charging de 25W para um carregamento ultrarrápido.",
+    "avaliacao": 4.7,
+    "disponibilidade": "estoque",
+    "garantia": "6 meses"
+  },
+  {
+    "categoria": "leitor digital",
+    "marca": "Amazon",
+    "modelo": "Kindle 10ª Geração",
+    "cor": "preto",
+    "preco": 400,
+    "descricao": "Kindle 10ª Geração com iluminação embutida para ler a qualquer hora, em qualquer lugar.",
+    "avaliacao": 4.7,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "celular",
+    "marca": "Huawei",
+    "modelo": "P30 Lite",
+    "cor": "azul",
+    "preco": 1600,
+    "descricao": "Smartphone Huawei P30 Lite com câmera tripla de 48MP e design elegante.",
+    "avaliacao": 4.6,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "notebook",
+    "marca": "Microsoft",
+    "modelo": "Surface Laptop Go",
+    "cor": "cinza",
+    "preco": 6000,
+    "descricao": "Notebook Microsoft Surface Laptop Go, leve, com tela sensível ao toque e design premium.",
+    "avaliacao": 4.7,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "fone de ouvido",
+    "marca": "JBL",
+    "modelo": "Endurance Run",
+    "cor": "vermelho",
+    "preco": 120,
+    "descricao": "Fone de ouvido esportivo JBL Endurance Run, à prova de suor e com ajuste seguro.",
+    "avaliacao": 4.5,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "tablet",
+    "marca": "Amazon",
+    "modelo": "Fire HD 8",
+    "cor": "preto",
+    "preco": 700,
+    "descricao": "Tablet Amazon Fire HD 8 com tela de 8 polegadas e integração com a Alexa.",
+    "avaliacao": 4.6,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "TV",
+    "marca": "LG",
+    "modelo": "NanoCell 50",
+    "cor": "preto",
+    "preco": 5000,
+    "descricao": "Smart TV LG NanoCell de 50 polegadas com cores puras e realistas em 4K.",
+    "avaliacao": 4.8,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "smartwatch",
+    "marca": "Philips",
+    "modelo": "SWA5100",
+    "cor": "branco",
+    "preco": 400,
+    "descricao": "Smartwatch Philips com monitoramento de atividades e notificações inteligentes.",
+    "avaliacao": 4.3,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "câmera",
+    "marca": "Canon",
+    "modelo": "EOS M50",
+    "cor": "branco",
+    "preco": 3000,
+    "descricao": "Câmera mirrorless Canon EOS M50 com gravação de vídeo 4K e tela articulável.",
+    "avaliacao": 4.7,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "monitor",
+    "marca": "Philips",
+    "modelo": "221V8L",
+    "cor": "preto",
+    "preco": 700,
+    "descricao": "Monitor Philips de 21.5 polegadas com tecnologia VA para imagens com alto contraste.",
+    "avaliacao": 4.5,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "impressora",
+    "marca": "Epson",
+    "modelo": "L120",
+    "cor": "preto",
+    "preco": 800,
+    "descricao": "Impressora Epson EcoTank L120, ideal para quem busca baixo custo de impressão.",
+    "avaliacao": 4.6,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "roteador",
+    "marca": "Huawei",
+    "modelo": "WS5200",
+    "cor": "preto",
+    "preco": 250,
+    "descricao": "Roteador Huawei WS5200 com quatro antenas e tecnologia Beamforming para melhor sinal.",
+    "avaliacao": 4.6,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "console",
+    "marca": "Microsoft",
+    "modelo": "Xbox One S",
+    "cor": "branco",
+    "preco": 1800,
+    "descricao": "Console Xbox One S com 1TB de armazenamento, leitor de Blu-ray 4K e HDR.",
+    "avaliacao": 4.7,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "projetor",
+    "marca": "Acer",
+    "modelo": "H5382BD",
+    "cor": "preto",
+    "preco": 2200,
+    "descricao": "Projetor Acer H5382BD com resolução HD e 3.300 lúmens para imagens brilhantes.",
+    "avaliacao": 4.6,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "drone",
+    "marca": "DJI",
+    "modelo": "Tello",
+    "cor": "branco",
+    "preco": 500,
+    "descricao": "Mini drone DJI Tello, divertido e fácil de voar, ideal para iniciantes e crianças.",
+    "avaliacao": 4.5,
+    "disponibilidade": "estoque",
+    "garantia": "6 meses"
+  },
+  {
+    "categoria": "HD externo",
+    "marca": "Western Digital",
+    "modelo": "My Passport 2TB",
+    "cor": "vermelho",
+    "preco": 600,
+    "descricao": "HD externo Western Digital My Passport de 2TB com design fino e software de backup.",
+    "avaliacao": 4.8,
+    "disponibilidade": "estoque",
+    "garantia": "3 anos"
+  },
+  {
+    "categoria": "SSD",
+    "marca": "Crucial",
+    "modelo": "MX500 1TB",
+    "cor": "azul",
+    "preco": 900,
+    "descricao": "SSD Crucial MX500 de 1TB com excelente performance e confiabilidade.",
+    "avaliacao": 4.8,
+    "disponibilidade": "estoque",
+    "garantia": "5 anos"
+  },
+  {
+    "categoria": "carregador",
+    "marca": "Asus",
+    "modelo": "18W Fast",
+    "cor": "preto",
+    "preco": 90,
+    "descricao": "Carregador rápido Asus de 18W para carregamento eficiente.",
+    "avaliacao": 4.5,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "leitor digital",
+    "marca": "Amazon",
+    "modelo": "Kindle Scribe",
+    "cor": "cinza",
+    "preco": 1500,
+    "descricao": "Kindle Scribe, o primeiro Kindle para leitura e escrita, com tela de 10.2 polegadas.",
+    "avaliacao": 4.8,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "tablet",
+    "marca": "Samsung",
+    "modelo": "Galaxy Tab A8",
+    "cor": "prata",
+    "preco": 1500,
+    "descricao": "Tablet Samsung Galaxy Tab A8 com tela de 10.5 polegadas e design fino.",
+    "avaliacao": 4.6,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "tablet",
+    "marca": "Apple",
+    "modelo": "iPad Mini",
+    "cor": "cinza",
+    "preco": 3500,
+    "descricao": "iPad Mini com design compacto, chip A15 Bionic e tela Liquid Retina.",
+    "avaliacao": 4.8,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "tablet",
+    "marca": "Lenovo",
+    "modelo": "Tab M10",
+    "cor": "branco",
+    "preco": 1200,
+    "descricao": "Tablet Lenovo Tab M10 com tela Full HD e alto-falantes duplos.",
+    "avaliacao": 4.5,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "tablet",
+    "marca": "Multilaser",
+    "modelo": "M8W",
+    "cor": "preto",
+    "preco": 700,
+    "descricao": "Tablet Multilaser M8W com Windows 10 e teclado destacável.",
+    "avaliacao": 4.1,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "TV",
+    "marca": "Philips",
+    "modelo": "Ambilight 58",
+    "cor": "preto",
+    "preco": 6500,
+    "descricao": "Smart TV Philips de 58 polegadas com tecnologia Ambilight para uma experiência imersiva.",
+    "avaliacao": 4.7,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "TV",
+    "marca": "Samsung",
+    "modelo": "Crystal UHD",
+    "cor": "branco",
+    "preco": 5500,
+    "descricao": "Smart TV Samsung Crystal UHD com cores vibrantes e design sem bordas.",
+    "avaliacao": 4.8,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "TV",
+    "marca": "Sony",
+    "modelo": "XBR-65X905F",
+    "cor": "preto",
+    "preco": 9500,
+    "descricao": "Smart TV Sony de 65 polegadas com processador X1 e qualidade de imagem superior.",
+    "avaliacao": 4.9,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "TV",
+    "marca": "LG",
+    "modelo": "Smart TV 43",
+    "cor": "branco",
+    "preco": 3000,
+    "descricao": "Smart TV LG de 43 polegadas com inteligência artificial e controle por voz.",
+    "avaliacao": 4.6,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "smartwatch",
+    "marca": "Apple",
+    "modelo": "Watch SE",
+    "cor": "rosa",
+    "preco": 2000,
+    "descricao": "Apple Watch SE com recursos essenciais de saúde e segurança.",
+    "avaliacao": 4.7,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "smartwatch",
+    "marca": "Samsung",
+    "modelo": "Galaxy Fit 2",
+    "cor": "vermelho",
+    "preco": 400,
+    "descricao": "Pulseira inteligente Samsung Galaxy Fit 2 para monitoramento de atividades.",
+    "avaliacao": 4.5,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "smartwatch",
+    "marca": "Xiaomi",
+    "modelo": "Amazfit Bip U",
+    "cor": "verde",
+    "preco": 500,
+    "descricao": "Smartwatch Xiaomi Amazfit Bip U com monitoramento de SpO2 e 60 modos esportivos.",
+    "avaliacao": 4.6,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "smartwatch",
+    "marca": "Huawei",
+    "modelo": "Watch Fit",
+    "cor": "laranja",
+    "preco": 800,
+    "descricao": "Smartwatch Huawei Watch Fit com tela AMOLED e personal trainer animado.",
+    "avaliacao": 4.7,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "câmera",
+    "marca": "Canon",
+    "modelo": "EOS 250D",
+    "cor": "preto",
+    "preco": 3500,
+    "descricao": "Câmera DSLR Canon EOS 250D, leve e fácil de usar, com gravação 4K.",
+    "avaliacao": 4.7,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "câmera",
+    "marca": "Sony",
+    "modelo": "Cyber-shot WX350",
+    "cor": "prata",
+    "preco": 1800,
+    "descricao": "Câmera compacta Sony Cyber-shot WX350 com zoom óptico de 20x.",
+    "avaliacao": 4.5,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "câmera",
+    "marca": "GoPro",
+    "modelo": "Hero 8",
+    "cor": "preto",
+    "preco": 2000,
+    "descricao": "Câmera de ação GoPro Hero 8 Black com estabilização HyperSmooth 2.0.",
+    "avaliacao": 4.7,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
   },
   {
     "categoria": "câmera",
     "marca": "Canon",
     "modelo": "PowerShot G7X",
     "cor": "preto",
-    "preco": 4000
+    "preco": 4000,
+    "descricao": "Câmera compacta premium Canon PowerShot G7X Mark III para vlogging.",
+    "avaliacao": 4.8,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
   },
   {
     "categoria": "monitor",
     "marca": "Dell",
     "modelo": "P2419H",
     "cor": "preto",
-    "preco": 1200
+    "preco": 1200,
+    "descricao": "Monitor Dell de 24 polegadas com design ultrafino e ajuste de altura.",
+    "avaliacao": 4.7,
+    "disponibilidade": "estoque",
+    "garantia": "3 anos"
   },
   {
     "categoria": "monitor",
     "marca": "Acer",
     "modelo": "R221Q",
     "cor": "branco",
-    "preco": 900
+    "preco": 900,
+    "descricao": "Monitor Acer de 21.5 polegadas com design ZeroFrame e painel IPS.",
+    "avaliacao": 4.6,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
   },
   {
     "categoria": "monitor",
     "marca": "Samsung",
     "modelo": "T350",
     "cor": "cinza",
-    "preco": 1100
+    "preco": 1100,
+    "descricao": "Monitor Samsung de 24 polegadas com painel IPS e design sem bordas.",
+    "avaliacao": 4.7,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
   },
   {
     "categoria": "monitor",
     "marca": "LG",
     "modelo": "24MK430H",
     "cor": "preto",
-    "preco": 800
+    "preco": 800,
+    "descricao": "Monitor LG de 23.8 polegadas com painel IPS e tecnologia AMD FreeSync.",
+    "avaliacao": 4.6,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
   },
   {
     "categoria": "impressora",
     "marca": "HP",
     "modelo": "Ink Tank 416",
     "cor": "preto",
-    "preco": 1000
+    "preco": 1000,
+    "descricao": "Impressora multifuncional HP Ink Tank 416 com tanques de tinta de alta capacidade.",
+    "avaliacao": 4.7,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
   },
   {
     "categoria": "impressora",
     "marca": "Canon",
     "modelo": "G3111",
     "cor": "preto",
-    "preco": 1100
+    "preco": 1100,
+    "descricao": "Impressora multifuncional Canon Mega Tank G3111 com Wi-Fi e alta capacidade de impressão.",
+    "avaliacao": 4.7,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
   },
   {
     "categoria": "impressora",
     "marca": "Epson",
     "modelo": "L3150",
     "cor": "branco",
-    "preco": 1300
+    "preco": 1300,
+    "descricao": "Impressora multifuncional Epson EcoTank L3150 com Wi-Fi e design compacto.",
+    "avaliacao": 4.8,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
   },
   {
     "categoria": "impressora",
     "marca": "Brother",
     "modelo": "DCP-L2540DW",
     "cor": "cinza",
-    "preco": 1500
+    "preco": 1500,
+    "descricao": "Impressora a laser multifuncional Brother com Wi-Fi e impressão duplex.",
+    "avaliacao": 4.8,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
   },
   {
     "categoria": "roteador",
     "marca": "TP-Link",
     "modelo": "Archer AX10",
     "cor": "preto",
-    "preco": 500
+    "preco": 500,
+    "descricao": "Roteador TP-Link Archer AX10 com tecnologia Wi-Fi 6 para maior velocidade.",
+    "avaliacao": 4.7,
+    "disponibilidade": "estoque",
+    "garantia": "2 anos"
   },
   {
     "categoria": "roteador",
     "marca": "D-Link",
     "modelo": "DIR-882",
     "cor": "preto",
-    "preco": 400
+    "preco": 400,
+    "descricao": "Roteador D-Link DIR-882 com alta potência e tecnologia AC2600.",
+    "avaliacao": 4.6,
+    "disponibilidade": "estoque",
+    "garantia": "5 anos"
   },
   {
     "categoria": "roteador",
     "marca": "Huawei",
     "modelo": "AX2",
     "cor": "branco",
-    "preco": 350
+    "preco": 350,
+    "descricao": "Roteador Huawei AX2 com Wi-Fi 6 e design minimalista.",
+    "avaliacao": 4.6,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
   },
   {
     "categoria": "roteador",
     "marca": "Multilaser",
     "modelo": "RE018",
     "cor": "preto",
-    "preco": 250
+    "preco": 250,
+    "descricao": "Roteador Multilaser com 4 antenas e alta velocidade de conexão.",
+    "avaliacao": 4.4,
+    "disponibilidade": "estoque",
+    "garantia": "7 anos"
   },
   {
     "categoria": "console",
     "marca": "Sony",
     "modelo": "PlayStation 3",
     "cor": "preto",
-    "preco": 1200
+    "preco": 1200,
+    "descricao": "Console PlayStation 3 Super Slim, um clássico com uma vasta biblioteca de jogos.",
+    "avaliacao": 4.5,
+    "disponibilidade": "estoque",
+    "garantia": "6 meses"
   },
   {
     "categoria": "console",
     "marca": "Microsoft",
     "modelo": "Xbox 360",
     "cor": "preto",
-    "preco": 1000
+    "preco": 1000,
+    "descricao": "Console Xbox 360, um ícone dos games com jogos inesquecíveis.",
+    "avaliacao": 4.5,
+    "disponibilidade": "estoque",
+    "garantia": "6 meses"
+  },
+
+  {
+    "categoria": "celular",
+    "marca": "Dell",
+    "modelo": "XPhone 1",
+    "cor": "azul",
+    "preco": 1500,
+    "descricao": "Celular Dell com foco em produtividade e integração com ecossistema Dell.",
+    "avaliacao": 4.3,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "celular",
+    "marca": "HP",
+    "modelo": "ElitePhone",
+    "cor": "preto",
+    "preco": 2000,
+    "descricao": "Celular HP com recursos de segurança avançados para o mercado corporativo.",
+    "avaliacao": 4.4,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "celular",
+    "marca": "Microsoft",
+    "modelo": "Surface Duo 2",
+    "cor": "branco",
+    "preco": 8000,
+    "descricao": "Celular dobrável da Microsoft com duas telas para máxima produtividade.",
+    "avaliacao": 4.5,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "celular",
+    "marca": "Amazon",
+    "modelo": "Fire Phone 2",
+    "cor": "cinza",
+    "preco": 1200,
+    "descricao": "Celular Amazon com integração profunda com serviços da Amazon e Alexa.",
+    "avaliacao": 4.1,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "celular",
+    "marca": "Canon",
+    "modelo": "C-Phone",
+    "cor": "vermelho",
+    "preco": 2500,
+    "descricao": "Celular Canon com foco em fotografia e recursos de câmera avançados.",
+    "avaliacao": 4.6,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "celular",
+    "marca": "GoPro",
+    "modelo": "GoPhone",
+    "cor": "verde",
+    "preco": 1800,
+    "descricao": "Celular GoPro resistente e à prova d'água, ideal para aventuras.",
+    "avaliacao": 4.5,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "celular",
+    "marca": "Nintendo",
+    "modelo": "Switch Phone",
+    "cor": "laranja",
+    "preco": 3000,
+    "descricao": "Celular Nintendo com foco em jogos e integração com o ecossistema Nintendo.",
+    "avaliacao": 4.7,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "celular",
+    "marca": "Logitech",
+    "modelo": "G-Phone",
+    "cor": "roxo",
+    "preco": 2200,
+    "descricao": "Celular Logitech para gamers, com controles integrados e alta performance.",
+    "avaliacao": 4.6,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "celular",
+    "marca": "Huawei",
+    "modelo": "Nova 9",
+    "cor": "dourado",
+    "preco": 3500,
+    "descricao": "Celular Huawei com design elegante e câmera de alta resolução.",
+    "avaliacao": 4.7,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "celular",
+    "marca": "Realme",
+    "modelo": "GT Neo 3",
+    "cor": "azul",
+    "preco": 2100,
+    "descricao": "Celular Realme com carregamento ultrarrápido e foco em performance.",
+    "avaliacao": 4.6,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "celular",
+    "marca": "Acer",
+    "modelo": "Liquid Z6",
+    "cor": "preto",
+    "preco": 1700,
+    "descricao": "Celular Acer com bom custo-benefício e design funcional.",
+    "avaliacao": 4.2,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "celular",
+    "marca": "JBL",
+    "modelo": "SoundPhone",
+    "cor": "rosa",
+    "preco": 1600,
+    "descricao": "Celular JBL com foco em qualidade de áudio e alto-falantes potentes.",
+    "avaliacao": 4.4,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "celular",
+    "marca": "Philips",
+    "modelo": "Xenium X818",
+    "cor": "prata",
+    "preco": 1400,
+    "descricao": "Celular Philips com bateria de longa duração e design clássico.",
+    "avaliacao": 4.3,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "celular",
+    "marca": "Sony",
+    "modelo": "Xperia 5 II",
+    "cor": "azul",
+    "preco": 4000,
+    "descricao": "Celular Sony com tela 21:9 e recursos de câmera profissionais.",
+    "avaliacao": 4.6,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "celular",
+    "marca": "Lenovo",
+    "modelo": "Legion Phone",
+    "cor": "preto",
+    "preco": 5000,
+    "descricao": "Celular gamer da Lenovo com design arrojado e alta performance.",
+    "avaliacao": 4.7,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+
+  {
+    "categoria": "notebook",
+    "marca": "JBL",
+    "modelo": "SoundBook",
+    "cor": "azul",
+    "preco": 2000,
+    "descricao": "Notebook JBL com sistema de som de alta qualidade para entretenimento.",
+    "avaliacao": 4.4,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "notebook",
+    "marca": "Philips",
+    "modelo": "UltraBook 15",
+    "cor": "preto",
+    "preco": 2500,
+    "descricao": "Notebook Philips com design fino e tela de alta resolução.",
+    "avaliacao": 4.5,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "notebook",
+    "marca": "GoPro",
+    "modelo": "GoBook",
+    "cor": "cinza",
+    "preco": 3000,
+    "descricao": "Notebook GoPro resistente e ideal para edição de vídeos em qualquer lugar.",
+    "avaliacao": 4.6,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "notebook",
+    "marca": "Canon",
+    "modelo": "PixmaBook",
+    "cor": "branco",
+    "preco": 3500,
+    "descricao": "Notebook Canon com tela de alta fidelidade de cores para fotógrafos.",
+    "avaliacao": 4.7,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "notebook",
+    "marca": "Nintendo",
+    "modelo": "SwitchBook",
+    "cor": "vermelho",
+    "preco": 4000,
+    "descricao": "Notebook Nintendo com design divertido e foco em jogos.",
+    "avaliacao": 4.7,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "notebook",
+    "marca": "Logitech",
+    "modelo": "G-Book",
+    "cor": "verde",
+    "preco": 4500,
+    "descricao": "Notebook Logitech para gamers, com teclado mecânico e alta performance.",
+    "avaliacao": 4.8,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "notebook",
+    "marca": "Huawei",
+    "modelo": "MateBook D15",
+    "cor": "dourado",
+    "preco": 5000,
+    "descricao": "Notebook Huawei com design premium e tela FullView.",
+    "avaliacao": 4.7,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "notebook",
+    "marca": "Realme",
+    "modelo": "Book Prime",
+    "cor": "azul",
+    "preco": 5500,
+    "descricao": "Notebook Realme com tela 2K e design ultrafino.",
+    "avaliacao": 4.6,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "notebook",
+    "marca": "Acer",
+    "modelo": "Aspire 7",
+    "cor": "preto",
+    "preco": 6000,
+    "descricao": "Notebook Acer com placa de vídeo dedicada para jogos e trabalho.",
+    "avaliacao": 4.7,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "notebook",
+    "marca": "Sony",
+    "modelo": "Vaio S15",
+    "cor": "prata",
+    "preco": 6500,
+    "descricao": "Notebook Sony Vaio com design elegante e alta performance.",
+    "avaliacao": 4.8,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "notebook",
+    "marca": "Lenovo",
+    "modelo": "Yoga Slim 7",
+    "cor": "roxo",
+    "preco": 7000,
+    "descricao": "Notebook Lenovo 2 em 1 com design premium e tela sensível ao toque.",
+    "avaliacao": 4.8,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "notebook",
+    "marca": "Apple",
+    "modelo": "MacBook Pro 16",
+    "cor": "cinza",
+    "preco": 9000,
+    "descricao": "MacBook Pro de 16 polegadas com chip M2 Pro para máxima performance.",
+    "avaliacao": 4.9,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "notebook",
+    "marca": "Microsoft",
+    "modelo": "Surface Book 3",
+    "cor": "branco",
+    "preco": 10000,
+    "descricao": "Notebook 2 em 1 da Microsoft com tela destacável e alta performance.",
+    "avaliacao": 4.8,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "notebook",
+    "marca": "Dell",
+    "modelo": "XPS 17",
+    "cor": "azul",
+    "preco": 8000,
+    "descricao": "Notebook Dell com tela infinita e design premium.",
+    "avaliacao": 4.9,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "notebook",
+    "marca": "HP",
+    "modelo": "Spectre x360",
+    "cor": "preto",
+    "preco": 9500,
+    "descricao": "Notebook 2 em 1 da HP com design sofisticado e alta performance.",
+    "avaliacao": 4.8,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+
+  {
+    "categoria": "fone de ouvido",
+    "marca": "Dell",
+    "modelo": "SoundMax",
+    "cor": "azul",
+    "preco": 1200,
+    "descricao": "Fone de ouvido Dell com cancelamento de ruído e alta fidelidade sonora.",
+    "avaliacao": 4.5,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "fone de ouvido",
+    "marca": "HP",
+    "modelo": "AudioBoost",
+    "cor": "preto",
+    "preco": 1500,
+    "descricao": "Fone de ouvido HP com som imersivo e design confortável.",
+    "avaliacao": 4.6,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "fone de ouvido",
+    "marca": "Microsoft",
+    "modelo": "Surface Headphones 2",
+    "cor": "branco",
+    "preco": 2000,
+    "descricao": "Fone de ouvido Microsoft com cancelamento de ruído ajustável e integração com o Office.",
+    "avaliacao": 4.7,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "fone de ouvido",
+    "marca": "Amazon",
+    "modelo": "Echo Buds 2",
+    "cor": "cinza",
+    "preco": 1700,
+    "descricao": "Fone de ouvido Amazon com Alexa integrada e cancelamento de ruído.",
+    "avaliacao": 4.5,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "fone de ouvido",
+    "marca": "Canon",
+    "modelo": "SoundPods",
+    "cor": "vermelho",
+    "preco": 1100,
+    "descricao": "Fone de ouvido Canon com alta fidelidade de som para audiófilos.",
+    "avaliacao": 4.6,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "fone de ouvido",
+    "marca": "GoPro",
+    "modelo": "GoPods",
+    "cor": "verde",
+    "preco": 1300,
+    "descricao": "Fone de ouvido GoPro resistente e à prova d'água para esportes.",
+    "avaliacao": 4.7,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "fone de ouvido",
+    "marca": "Nintendo",
+    "modelo": "Switch Buds",
+    "cor": "laranja",
+    "preco": 1400,
+    "descricao": "Fone de ouvido Nintendo com baixa latência para jogos.",
+    "avaliacao": 4.7,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "fone de ouvido",
+    "marca": "Logitech",
+    "modelo": "G-Buds",
+    "cor": "roxo",
+    "preco": 1600,
+    "descricao": "Fone de ouvido gamer da Logitech com som surround e microfone de alta qualidade.",
+    "avaliacao": 4.8,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "fone de ouvido",
+    "marca": "Huawei",
+    "modelo": "FreeBuds 4",
+    "cor": "dourado",
+    "preco": 1800,
+    "descricao": "Fones de ouvido Huawei FreeBuds 4 com cancelamento de ruído ativo e som de alta qualidade.",
+    "avaliacao": 4.5,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "fone de ouvido",
+    "marca": "Realme",
+    "modelo": "Buds Air 3",
+    "cor": "azul",
+    "preco": 1900,
+    "descricao": "Fones de ouvido Realme Buds Air 3 com cancelamento de ruído ativo e som de alta qualidade.",
+    "avaliacao": 4.5,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "fone de ouvido",
+    "marca": "Acer",
+    "modelo": "TruePods",
+    "cor": "preto",
+    "preco": 2100,
+    "descricao": "Fones de ouvido Acer TruePods com design ergonômico e som de alta qualidade.",
+    "avaliacao": 4.4,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "fone de ouvido",
+    "marca": "JBL",
+    "modelo": "Live 660NC",
+    "cor": "rosa",
+    "preco": 2200,
+    "descricao": "Fones de ouvido JBL Live 660NC com cancelamento de ruído ativo e som de alta qualidade.",
+    "avaliacao": 4.6,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "fone de ouvido",
+    "marca": "Philips",
+    "modelo": "Fidelio X3",
+    "cor": "prata",
+    "preco": 2300,
+    "descricao": "Fones de ouvido Philips Fidelio X3 com som de alta fidelidade e conforto excepcional.",
+    "avaliacao": 4.7,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "fone de ouvido",
+    "marca": "Sony",
+    "modelo": "WH-1000XM5",
+    "cor": "azul",
+    "preco": 2500,
+    "descricao": "Fones de ouvido Sony WH-1000XM5 com cancelamento de ruído ativo e som de alta qualidade.",
+    "avaliacao": 4.8,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "fone de ouvido",
+    "marca": "Lenovo",
+    "modelo": "ThinkPods",
+    "cor": "preto",
+    "preco": 2700,
+    "descricao": "Fones de ouvido Lenovo ThinkPods com design ergonômico e som de alta qualidade.",
+    "avaliacao": 4.4,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+
+  {
+    "categoria": "tablet",
+    "marca": "Dell",
+    "modelo": "Venue 8",
+    "cor": "azul",
+    "preco": 1200,
+    "descricao": "Tablet Dell Venue 8 com tela de 8 polegadas e desempenho eficiente.",
+    "avaliacao": 4.2,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "tablet",
+    "marca": "HP",
+    "modelo": "ElitePad 1000",
+    "cor": "preto",
+    "preco": 1500,
+    "descricao": "Tablet HP ElitePad 1000 com tela de 10 polegadas e desempenho eficiente.",
+    "avaliacao": 4.3,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "tablet",
+    "marca": "Microsoft",
+    "modelo": "Surface Go 3",
+    "cor": "branco",
+    "preco": 2000,
+    "descricao": "Tablet Microsoft Surface Go 3 com tela de 10,5 polegadas e desempenho eficiente.",
+    "avaliacao": 4.4,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "tablet",
+    "marca": "Amazon",
+    "modelo": "Fire Max 11",
+    "cor": "cinza",
+    "preco": 1700,
+    "descricao": "Tablet Amazon com tela de 11 polegadas e Alexa integrada.",
+    "avaliacao": 4.3,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "tablet",
+    "marca": "Canon",
+    "modelo": "TabPix",
+    "cor": "vermelho",
+    "preco": 1100,
+    "descricao": "Tablet Canon com foco em visualização de fotos e edição leve.",
+    "avaliacao": 4.4,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "tablet",
+    "marca": "GoPro",
+    "modelo": "GoTab",
+    "cor": "verde",
+    "preco": 1300,
+    "descricao": "Tablet GoPro resistente para visualização e edição de vídeos de ação.",
+    "avaliacao": 4.5,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "tablet",
+    "marca": "Nintendo",
+    "modelo": "Switch Tab",
+    "cor": "laranja",
+    "preco": 1400,
+    "descricao": "Tablet Nintendo para jogos e entretenimento familiar.",
+    "avaliacao": 4.6,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "tablet",
+    "marca": "Logitech",
+    "modelo": "G-Tab",
+    "cor": "roxo",
+    "preco": 1600,
+    "descricao": "Tablet Logitech para jogos com controles integrados.",
+    "avaliacao": 4.5,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "tablet",
+    "marca": "Huawei",
+    "modelo": "MatePad Pro",
+    "cor": "dourado",
+    "preco": 1800,
+    "descricao": "Tablet Huawei com tela de alta resolução e caneta M-Pencil.",
+    "avaliacao": 4.7,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "tablet",
+    "marca": "Realme",
+    "modelo": "Pad X",
+    "cor": "azul",
+    "preco": 1900,
+    "descricao": "Tablet Realme com tela 2K e som Dolby Atmos.",
+    "avaliacao": 4.6,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "tablet",
+    "marca": "Acer",
+    "modelo": "Iconia Tab 10",
+    "cor": "preto",
+    "preco": 2100,
+    "descricao": "Tablet Acer com tela de 10 polegadas e som DTS-HD.",
+    "avaliacao": 4.5,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "tablet",
+    "marca": "JBL",
+    "modelo": "SoundTab",
+    "cor": "rosa",
+    "preco": 2200,
+    "descricao": "Tablet JBL com alto-falantes de alta qualidade para uma experiência de som imersiva.",
+    "avaliacao": 4.6,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "tablet",
+    "marca": "Philips",
+    "modelo": "Tab Pro",
+    "cor": "prata",
+    "preco": 2300,
+    "descricao": "Tablet Philips com tela de alta definição e design elegante.",
+    "avaliacao": 4.5,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "tablet",
+    "marca": "Sony",
+    "modelo": "Xperia Z5 Tablet",
+    "cor": "azul",
+    "preco": 2500,
+    "descricao": "Tablet Sony Xperia Z5 Tablet com tela de 10,1 polegadas e desempenho eficiente.",
+    "avaliacao": 4.5,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
+  },
+  {
+    "categoria": "tablet",
+    "marca": "Lenovo",
+    "modelo": "Yoga Tab 13",
+    "cor": "preto",
+    "preco": 2700,
+    "descricao": "Tablet Lenovo Yoga Tab 13 com tela de 13 polegadas e desempenho eficiente.",
+    "avaliacao": 4.6,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
   },
   {
     "categoria": "console",
     "marca": "Nintendo",
     "modelo": "Wii U",
     "cor": "branco",
-    "preco": 900
+    "preco": 900,
+    "descricao": "Console Nintendo Wii U com GamePad e jogos inovadores.",
+    "avaliacao": 4.4,
+    "disponibilidade": "estoque",
+    "garantia": "6 meses"
   },
   {
     "categoria": "console",
     "marca": "Sony",
     "modelo": "PlayStation Vita",
     "cor": "azul",
-    "preco": 800
+    "preco": 800,
+    "descricao": "Console portátil da Sony com tela OLED e dois analógicos.",
+    "avaliacao": 4.6,
+    "disponibilidade": "estoque",
+    "garantia": "6 meses"
   },
   {
     "categoria": "projetor",
     "marca": "Epson",
     "modelo": "EH-TW650",
     "cor": "branco",
-    "preco": 2500
+    "preco": 2500,
+    "descricao": "Projetor Epson Full HD para home cinema com alta luminosidade.",
+    "avaliacao": 4.7,
+    "disponibilidade": "estoque",
+    "garantia": "2 anos"
   },
   {
     "categoria": "projetor",
     "marca": "Acer",
     "modelo": "X1223H",
     "cor": "preto",
-    "preco": 1700
+    "preco": 1700,
+    "descricao": "Projetor Acer com boa qualidade de imagem para apresentações.",
+    "avaliacao": 4.5,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
   },
   {
     "categoria": "projetor",
     "marca": "LG",
     "modelo": "PH30N",
     "cor": "prata",
-    "preco": 1200
+    "preco": 1200,
+    "descricao": "Mini projetor LG portátil com bateria integrada.",
+    "avaliacao": 4.6,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
   },
   {
     "categoria": "projetor",
     "marca": "Sony",
     "modelo": "VPL-DX221",
     "cor": "preto",
-    "preco": 2000
+    "preco": 2000,
+    "descricao": "Projetor Sony para uso corporativo com boa luminosidade.",
+    "avaliacao": 4.7,
+    "disponibilidade": "estoque",
+    "garantia": "2 anos"
   },
   {
     "categoria": "drone",
     "marca": "DJI",
     "modelo": "Mavic Mini",
     "cor": "branco",
-    "preco": 3000
+    "preco": 3000,
+    "descricao": "Drone DJI Mavic Mini, ultraleve e compacto, ideal para iniciantes.",
+    "avaliacao": 4.8,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
   },
   {
     "categoria": "drone",
     "marca": "DJI",
     "modelo": "Air 2S",
     "cor": "cinza",
-    "preco": 8000
+    "preco": 8000,
+    "descricao": "Drone DJI Air 2S com sensor de 1 polegada e gravação de vídeo 5.4K.",
+    "avaliacao": 4.9,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
   },
   {
     "categoria": "drone",
     "marca": "Multilaser",
     "modelo": "Hawk",
     "cor": "preto",
-    "preco": 1200
+    "preco": 1200,
+    "descricao": "Drone Multilaser com câmera HD e estabilizador de voo.",
+    "avaliacao": 4.3,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
   },
   {
     "categoria": "drone",
     "marca": "DJI",
     "modelo": "Spark",
     "cor": "vermelho",
-    "preco": 2000
+    "preco": 2000,
+    "descricao": "Drone DJI Spark, compacto e com controle por gestos.",
+    "avaliacao": 4.7,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
   },
   {
     "categoria": "HD externo",
     "marca": "Seagate",
     "modelo": "Expansion 1TB",
     "cor": "preto",
-    "preco": 350
+    "preco": 350,
+    "descricao": "HD externo Seagate de 1TB, simples e fácil de usar.",
+    "avaliacao": 4.7,
+    "disponibilidade": "estoque",
+    "garantia": "2 anos"
   },
   {
     "categoria": "HD externo",
     "marca": "Western Digital",
     "modelo": "Elements 2TB",
     "cor": "preto",
-    "preco": 400
+    "preco": 400,
+    "descricao": "HD externo Western Digital Elements de 2TB, ideal para backup e armazenamento de arquivos.",
+    "avaliacao": 4.6,
+    "disponibilidade": "estoque",
+    "garantia": "2 anos"
   },
   {
     "categoria": "HD externo",
     "marca": "Toshiba",
     "modelo": "Canvio Advance 2TB",
     "cor": "vermelho",
-    "preco": 500
+    "preco": 500,
+    "descricao": "HD externo Toshiba Canvio Advance de 2TB, compacto e com design elegante.",
+    "avaliacao": 4.5,
+    "disponibilidade": "estoque",
+    "garantia": "2 anos"
   },
   {
     "categoria": "HD externo",
     "marca": "Seagate",
     "modelo": "One Touch 1TB",
     "cor": "azul",
-    "preco": 450
+    "preco": 450,
+    "descricao": "HD externo Seagate One Touch de 1TB, portátil e fácil de usar para armazenamento extra.",
+    "avaliacao": 4.7,
+    "disponibilidade": "estoque",
+    "garantia": "2 anos"
   },
   {
     "categoria": "SSD",
     "marca": "Kingston",
     "modelo": "A2000 500GB",
     "cor": "preto",
-    "preco": 350
+    "preco": 350,
+    "descricao": "SSD Kingston A2000 de 500GB, NVMe, ideal para upgrade de performance.",
+    "avaliacao": 4.8,
+    "disponibilidade": "estoque",
+    "garantia": "5 anos"
   },
   {
     "categoria": "SSD",
     "marca": "Samsung",
     "modelo": "T5 500GB",
     "cor": "azul",
-    "preco": 600
+    "preco": 600,
+    "descricao": "SSD Samsung T5 de 500GB, portátil e rápido, ideal para armazenamento externo.",
+    "avaliacao": 4.7,
+    "disponibilidade": "estoque",
+    "garantia": "3 anos"
   },
   {
     "categoria": "SSD",
     "marca": "Crucial",
     "modelo": "P2 500GB",
     "cor": "preto",
-    "preco": 400
+    "preco": 400,
+    "descricao": "SSD Crucial P2 de 500GB, NVMe, ideal para upgrade de performance.",
+    "avaliacao": 4.6,
+    "disponibilidade": "estoque",
+    "garantia": "5 anos"
   },
   {
     "categoria": "SSD",
     "marca": "Kingston",
     "modelo": "KC600 256GB",
     "cor": "preto",
-    "preco": 300
+    "preco": 300,
+    "descricao": "SSD Kingston KC600 de 256GB, SATA, ideal para upgrade de notebooks.",
+    "avaliacao": 4.5,
+    "disponibilidade": "estoque",
+    "garantia": "5 anos"
   },
   {
     "categoria": "carregador",
     "marca": "Xiaomi",
     "modelo": "Mi Charger 18W",
     "cor": "preto",
-    "preco": 80
+    "preco": 80,
+    "descricao": "Carregador Xiaomi Mi Charger 18W, compacto e eficiente.",
+    "avaliacao": 4.5,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
   },
   {
     "categoria": "carregador",
     "marca": "Samsung",
     "modelo": "Carregador Wireless",
     "cor": "branco",
-    "preco": 200
+    "preco": 200,
+    "descricao": "Carregador sem fio Samsung, compatível com dispositivos Qi.",
+    "avaliacao": 4.6,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
   },
   {
     "categoria": "carregador",
     "marca": "Motorola",
     "modelo": "TurboPower 30W",
     "cor": "preto",
-    "preco": 150
+    "preco": 150,
+    "descricao": "Carregador Motorola TurboPower 30W, rápido e eficiente.",
+    "avaliacao": 4.5,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
   },
   {
     "categoria": "carregador",
     "marca": "Asus",
     "modelo": "Carregador Rápido 30W",
     "cor": "branco",
-    "preco": 120
+    "preco": 120,
+    "descricao": "Carregador Asus Rápido 30W, compacto e eficiente.",
+    "avaliacao": 4.5,
+    "disponibilidade": "estoque",
+    "garantia": "1 ano"
   },
   {
     "categoria": "leitor digital",
     "marca": "Amazon",
     "modelo": "Kindle Kids",
     "cor": "azul",
-    "preco": 600
+    "preco": 600,
+    "descricao": "Leitor digital infantil com proteção contra quedas e conteúdo exclusivo.",
+    "avaliacao": 4.6,
+    "disponibilidade": "Em estoque",
+    "garantia": "12 meses"
   },
   {
     "categoria": "leitor digital",
     "marca": "Amazon",
     "modelo": "Kindle Paperwhite Signature",
     "cor": "preto",
-    "preco": 1100
+    "preco": 1100,
+    "descricao": "Leitor digital com tela de 6 polegadas e iluminação embutida",
+    "avaliacao": 4.5,
+    "disponibilidade": "Em estoque",
+    "garantia": "12 meses"
   },
   {
     "categoria": "leitor digital",
     "marca": "Amazon",
     "modelo": "Kindle Oasis 32GB",
     "cor": "dourado",
-    "preco": 1600
+    "preco": 1600,
+    "descricao": "Leitor digital premium com tela de 7 polegadas e iluminação ajustável",
+    "avaliacao": 4.8,
+    "disponibilidade": "Em estoque",
+    "garantia": "12 meses"
   },
   {
     "categoria": "leitor digital",
     "marca": "Amazon",
     "modelo": "Kindle 8ª Geração",
     "cor": "preto",
-    "preco": 350
+    "preco": 350,
+    "descricao": "Leitor digital com tela de 6 polegadas e iluminação embutida",
+    "avaliacao": 4.5,
+    "disponibilidade": "Em estoque",
+    "garantia": "12 meses"
+  },
+  {
+    "categoria": "celular",
+    "marca": "Samsung",
+    "modelo": "Galaxy S23 Ultra",
+    "cor": "preto",
+    "preco": 6500,
+    "descricao": "Smartphone flagship com S Pen integrada e câmera de 200MP",
+    "avaliacao": 4.9,
+    "disponibilidade": "Em estoque",
+    "garantia": "12 meses"
+  },
+  {
+    "categoria": "celular",
+    "marca": "Apple",
+    "modelo": "iPhone 15 Pro Max",
+    "cor": "azul",
+    "preco": 9500,
+    "descricao": "iPhone mais avançado com chip A17 Pro e câmera de 48MP",
+    "avaliacao": 4.9,
+    "disponibilidade": "Em estoque",
+    "garantia": "12 meses"
+  },
+  {
+    "categoria": "celular",
+    "marca": "Xiaomi",
+    "modelo": "Mi 13 Pro",
+    "cor": "branco",
+    "preco": 4200,
+    "descricao": "Smartphone premium com carregamento ultra-rápido e câmera Leica",
+    "avaliacao": 4.7,
+    "disponibilidade": "Em estoque",
+    "garantia": "12 meses"
+  },
+  {
+    "categoria": "celular",
+    "marca": "Google",
+    "modelo": "Pixel 8 Pro",
+    "cor": "cinza",
+    "preco": 5800,
+    "descricao": "Smartphone com IA avançada e melhor câmera computacional",
+    "avaliacao": 4.8,
+    "disponibilidade": "Em estoque",
+    "garantia": "12 meses"
+  },
+  {
+    "categoria": "celular",
+    "marca": "OnePlus",
+    "modelo": "11 Pro",
+    "cor": "verde",
+    "preco": 4800,
+    "descricao": "Smartphone gaming com resfriamento líquido e tela 120Hz",
+    "avaliacao": 4.6,
+    "disponibilidade": "Em estoque",
+    "garantia": "12 meses"
+  },
+  {
+    "categoria": "celular",
+    "marca": "Nothing",
+    "modelo": "Phone 2",
+    "cor": "transparente",
+    "preco": 3200,
+    "descricao": "Smartphone inovador com design transparente e luzes Glyph",
+    "avaliacao": 4.5,
+    "disponibilidade": "Em estoque",
+    "garantia": "12 meses"
+  },
+  {
+    "categoria": "celular",
+    "marca": "Sony",
+    "modelo": "Xperia 1 V",
+    "cor": "preto",
+    "preco": 6200,
+    "descricao": "Smartphone profissional com lentes ZEISS e gravação 4K",
+    "avaliacao": 4.4,
+    "disponibilidade": "Em estoque",
+    "garantia": "12 meses"
+  },
+  {
+    "categoria": "celular",
+    "marca": "Motorola",
+    "modelo": "Edge 40 Pro",
+    "cor": "azul",
+    "preco": 3800,
+    "descricao": "Smartphone com carregamento wireless de 125W e tela curva",
+    "avaliacao": 4.6,
+    "disponibilidade": "Em estoque",
+    "garantia": "12 meses"
+  },
+  {
+    "categoria": "celular",
+    "marca": "Asus",
+    "modelo": "ROG Phone 7",
+    "cor": "preto",
+    "preco": 5500,
+    "descricao": "Smartphone gamer com ventilador externo e 165Hz",
+    "avaliacao": 4.7,
+    "disponibilidade": "Em estoque",
+    "garantia": "12 meses"
+  },
+  {
+    "categoria": "celular",
+    "marca": "Oppo",
+    "modelo": "Find X6 Pro",
+    "cor": "dourado",
+    "preco": 4500,
+    "descricao": "Smartphone premium com câmera Hasselblad e carregamento super rápido",
+    "avaliacao": 4.5,
+    "disponibilidade": "Em estoque",
+    "garantia": "12 meses"
+  },
+  {
+    "categoria": "notebook",
+    "marca": "Apple",
+    "modelo": "MacBook Pro 16 M3 Max",
+    "cor": "cinza espacial",
+    "preco": 25000,
+    "descricao": "Notebook profissional com chip M3 Max para máxima performance",
+    "avaliacao": 4.9,
+    "disponibilidade": "Em estoque",
+    "garantia": "12 meses"
+  },
+  {
+    "categoria": "notebook",
+    "marca": "Dell",
+    "modelo": "XPS 17 9730",
+    "cor": "prata",
+    "preco": 18000,
+    "descricao": "Notebook ultrabook premium com tela 4K e RTX 4070",
+    "avaliacao": 4.7,
+    "disponibilidade": "Em estoque",
+    "garantia": "12 meses"
+  },
+  {
+    "categoria": "notebook",
+    "marca": "Lenovo",
+    "modelo": "ThinkPad X1 Carbon Gen 11",
+    "cor": "preto",
+    "preco": 15000,
+    "descricao": "Ultrabook empresarial com certificação militar e teclado premium",
+    "avaliacao": 4.8,
+    "disponibilidade": "Em estoque",
+    "garantia": "12 meses"
+  },
+  {
+    "categoria": "notebook",
+    "marca": "Asus",
+    "modelo": "ROG Zephyrus G16",
+    "cor": "cinza",
+    "preco": 22000,
+    "descricao": "Notebook gamer premium com RTX 4080 e tela OLED 240Hz",
+    "avaliacao": 4.8,
+    "disponibilidade": "Em estoque",
+    "garantia": "12 meses"
+  },
+  {
+    "categoria": "notebook",
+    "marca": "HP",
+    "modelo": "Spectre x360 16",
+    "cor": "azul noturno",
+    "preco": 16000,
+    "descricao": "Notebook conversível 2-em-1 com tela OLED touch e design premium",
+    "avaliacao": 4.6,
+    "disponibilidade": "Em estoque",
+    "garantia": "12 meses"
+  },
+  {
+    "categoria": "notebook",
+    "marca": "Microsoft",
+    "modelo": "Surface Laptop Studio 2",
+    "cor": "platina",
+    "preco": 20000,
+    "descricao": "Notebook criativo com tela pull-forward e GeForce RTX 4060",
+    "avaliacao": 4.7,
+    "disponibilidade": "Em estoque",
+    "garantia": "12 meses"
+  },
+  {
+    "categoria": "notebook",
+    "marca": "Razer",
+    "modelo": "Blade 16 2024",
+    "cor": "preto",
+    "preco": 24000,
+    "descricao": "Notebook gamer ultra-fino com RTX 4090 e tela 4K 120Hz",
+    "avaliacao": 4.8,
+    "disponibilidade": "Em estoque",
+    "garantia": "12 meses"
+  },
+  {
+    "categoria": "notebook",
+    "marca": "Alienware",
+    "modelo": "m18 R1",
+    "cor": "cinza lunar",
+    "preco": 28000,
+    "descricao": "Notebook gamer desktop replacement com RTX 4090 e refrigeração avançada",
+    "avaliacao": 4.9,
+    "disponibilidade": "Em estoque",
+    "garantia": "12 meses"
+  },
+  {
+    "categoria": "notebook",
+    "marca": "Framework",
+    "modelo": "Laptop 16",
+    "cor": "cinza",
+    "preco": 14000,
+    "descricao": "Notebook modular completamente reparável e personalizável",
+    "avaliacao": 4.5,
+    "disponibilidade": "Em estoque",
+    "garantia": "12 meses"
+  },
+  {
+    "categoria": "notebook",
+    "marca": "LG",
+    "modelo": "Gram 17 2024",
+    "cor": "prata",
+    "preco": 12000,
+    "descricao": "Notebook ultra-leve de 17 polegadas com bateria de longa duração",
+    "avaliacao": 4.6,
+    "disponibilidade": "Em estoque",
+    "garantia": "12 meses"
+  },
+  {
+    "categoria": "fone de ouvido",
+    "marca": "Sony",
+    "modelo": "WH-1000XM5",
+    "cor": "preto",
+    "preco": 2200,
+    "descricao": "Fone premium com cancelamento de ruído líder de mercado",
+    "avaliacao": 4.9,
+    "disponibilidade": "Em estoque",
+    "garantia": "12 meses"
+  },
+  {
+    "categoria": "fone de ouvido",
+    "marca": "Apple",
+    "modelo": "AirPods Max",
+    "cor": "cinza espacial",
+    "preco": 4500,
+    "descricao": "Fone over-ear premium com áudio espacial e design em alumínio",
+    "avaliacao": 4.8,
+    "disponibilidade": "Em estoque",
+    "garantia": "12 meses"
+  },
+  {
+    "categoria": "fone de ouvido",
+    "marca": "Bose",
+    "modelo": "QuietComfort Ultra",
+    "cor": "branco",
+    "preco": 2800,
+    "descricao": "Fone com áudio espacial imersivo e cancelamento adaptativo",
+    "avaliacao": 4.8,
+    "disponibilidade": "Em estoque",
+    "garantia": "12 meses"
+  },
+  {
+    "categoria": "fone de ouvido",
+    "marca": "Sennheiser",
+    "modelo": "Momentum 4 Wireless",
+    "cor": "preto",
+    "preco": 2000,
+    "descricao": "Fone audiófilo com drivers de 42mm e som de alta resolução",
+    "avaliacao": 4.7,
+    "disponibilidade": "Em estoque",
+    "garantia": "12 meses"
+  },
+  {
+    "categoria": "fone de ouvido",
+    "marca": "Audio-Technica",
+    "modelo": "ATH-M50xBT2",
+    "cor": "azul",
+    "preco": 1200,
+    "descricao": "Fone de estúdio sem fio com qualidade profissional",
+    "avaliacao": 4.6,
+    "disponibilidade": "Em estoque",
+    "garantia": "12 meses"
+  },
+  {
+    "categoria": "fone de ouvido",
+    "marca": "Focal",
+    "modelo": "Bathys",
+    "cor": "preto",
+    "preco": 5500,
+    "descricao": "Fone francês premium com drivers berilo e DAC interno",
+    "avaliacao": 4.9,
+    "disponibilidade": "Em estoque",
+    "garantia": "12 meses"
+  },
+  {
+    "categoria": "fone de ouvido",
+    "marca": "Bang & Olufsen",
+    "modelo": "Beoplay HX",
+    "cor": "bege",
+    "preco": 3200,
+    "descricao": "Fone de luxo dinamarquês com design escandinavo",
+    "avaliacao": 4.7,
+    "disponibilidade": "Em estoque",
+    "garantia": "12 meses"
+  },
+  {
+    "categoria": "fone de ouvido",
+    "marca": "Beyerdynamic",
+    "modelo": "DT 990 Pro",
+    "cor": "preto",
+    "preco": 800,
+    "descricao": "Fone de estúdio alemão aberto para mixing profissional",
+    "avaliacao": 4.8,
+    "disponibilidade": "Em estoque",
+    "garantia": "12 meses"
+  },
+  {
+    "categoria": "fone de ouvido",
+    "marca": "SteelSeries",
+    "modelo": "Arctis Nova Pro Wireless",
+    "cor": "preto",
+    "preco": 2500,
+    "descricao": "Headset gamer premium com duas baterias hot-swap",
+    "avaliacao": 4.7,
+    "disponibilidade": "Em estoque",
+    "garantia": "12 meses"
+  },
+  {
+    "categoria": "fone de ouvido",
+    "marca": "Audeze",
+    "modelo": "LCD-X",
+    "cor": "preto",
+    "preco": 8000,
+    "descricao": "Fone planar magnético profissional de referência",
+    "avaliacao": 4.9,
+    "disponibilidade": "Em estoque",
+    "garantia": "12 meses"
+  },
+  {
+    "categoria": "tablet",
+    "marca": "Apple",
+    "modelo": "iPad Pro 12.9 M2",
+    "cor": "cinza espacial",
+    "preco": 8500,
+    "descricao": "Tablet profissional com chip M2 e tela Liquid Retina XDR",
+    "avaliacao": 4.9,
+    "disponibilidade": "Em estoque",
+    "garantia": "12 meses"
+  },
+  {
+    "categoria": "tablet",
+    "marca": "Samsung",
+    "modelo": "Galaxy Tab S9 Ultra",
+    "cor": "grafite",
+    "preco": 7200,
+    "descricao": "Tablet Android premium com S Pen e tela AMOLED de 14.6 polegadas",
+    "avaliacao": 4.8,
+    "disponibilidade": "Em estoque",
+    "garantia": "12 meses"
+  },
+  {
+    "categoria": "tablet",
+    "marca": "Microsoft",
+    "modelo": "Surface Pro 9",
+    "cor": "platina",
+    "preco": 6800,
+    "descricao": "Tablet 2-em-1 com Windows 11 e teclado destacável",
+    "avaliacao": 4.7,
+    "disponibilidade": "Em estoque",
+    "garantia": "12 meses"
+  },
+  {
+    "categoria": "tablet",
+    "marca": "Lenovo",
+    "modelo": "Tab P12 Pro",
+    "cor": "cinza tormentoso",
+    "preco": 3500,
+    "descricao": "Tablet Android com tela OLED e suporte a Precision Pen 3",
+    "avaliacao": 4.5,
+    "disponibilidade": "Em estoque",
+    "garantia": "12 meses"
+  },
+  {
+    "categoria": "tablet",
+    "marca": "Huawei",
+    "modelo": "MatePad Pro 13.2",
+    "cor": "verde",
+    "preco": 4200,
+    "descricao": "Tablet premium com OLED de 13.2 polegadas e M-Pencil",
+    "avaliacao": 4.6,
+    "disponibilidade": "Em estoque",
+    "garantia": "12 meses"
+  },
+  {
+    "categoria": "tablet",
+    "marca": "Xiaomi",
+    "modelo": "Pad 6 Pro",
+    "cor": "champagne dourado",
+    "preco": 2800,
+    "descricao": "Tablet com Snapdragon 8+ Gen 1 e tela de 144Hz",
+    "avaliacao": 4.5,
+    "disponibilidade": "Em estoque",
+    "garantia": "12 meses"
+  },
+  {
+    "categoria": "tablet",
+    "marca": "OnePlus",
+    "modelo": "Pad Pro",
+    "cor": "verde khaki",
+    "preco": 3800,
+    "descricao": "Tablet Android com tela de 12.1 polegadas e carregamento rápido",
+    "avaliacao": 4.4,
+    "disponibilidade": "Em estoque",
+    "garantia": "12 meses"
+  },
+  {
+    "categoria": "tablet",
+    "marca": "Amazon",
+    "modelo": "Fire Max 11",
+    "cor": "cinza",
+    "preco": 1200,
+    "descricao": "Tablet acessível com tela de 11 polegadas e Alexa integrada",
+    "avaliacao": 4.2,
+    "disponibilidade": "Em estoque",
+    "garantia": "12 meses"
+  },
+  {
+    "categoria": "tablet",
+    "marca": "Nothing",
+    "modelo": "CMF Pad 1",
+    "cor": "laranja",
+    "preco": 1800,
+    "descricao": "Tablet com design jovem e modular com acessórios intercambiáveis",
+    "avaliacao": 4.3,
+    "disponibilidade": "Em estoque",
+    "garantia": "12 meses"
+  },
+  {
+    "categoria": "tablet",
+    "marca": "Realme",
+    "modelo": "Pad 2",
+    "cor": "verde",
+    "preco": 1500,
+    "descricao": "Tablet intermediário com tela 2K e som quad speaker",
+    "avaliacao": 4.1,
+    "disponibilidade": "Em estoque",
+    "garantia": "12 meses"
+  },
+  {
+    "categoria": "TV",
+    "marca": "Samsung",
+    "modelo": "Neo QLED QN95C 65",
+    "cor": "preto",
+    "preco": 12000,
+    "descricao": "Smart TV 65 polegadas com tecnologia Neo QLED e 4K 120Hz",
+    "avaliacao": 4.8,
+    "disponibilidade": "Em estoque",
+    "garantia": "12 meses"
+  },
+  {
+    "categoria": "TV",
+    "marca": "LG",
+    "modelo": "OLED C3 77",
+    "cor": "preto",
+    "preco": 18000,
+    "descricao": "Smart TV OLED 77 polegadas com α9 Gen6 e Dolby Vision",
+    "avaliacao": 4.9,
+    "disponibilidade": "Em estoque",
+    "garantia": "12 meses"
+  },
+  {
+    "categoria": "TV",
+    "marca": "Sony",
+    "modelo": "Bravia XR A95L 83",
+    "cor": "preto",
+    "preco": 35000,
+    "descricao": "Smart TV QD-OLED 83 polegadas com processador Cognitive XR",
+    "avaliacao": 4.9,
+    "disponibilidade": "Em estoque",
+    "garantia": "12 meses"
+  },
+  {
+    "categoria": "TV",
+    "marca": "TCL",
+    "modelo": "C845 Mini LED 75",
+    "cor": "cinza titânio",
+    "preco": 8500,
+    "descricao": "Smart TV 75 polegadas com Mini LED e QLED 4K 144Hz",
+    "avaliacao": 4.6,
+    "disponibilidade": "Em estoque",
+    "garantia": "12 meses"
+  },
+  {
+    "categoria": "TV",
+    "marca": "Hisense",
+    "modelo": "U8K ULED 65",
+    "cor": "preto",
+    "preco": 6500,
+    "descricao": "Smart TV 65 polegadas com ULED e Quantum Dot",
+    "avaliacao": 4.5,
+    "disponibilidade": "Em estoque",
+    "garantia": "12 meses"
+  },
+  {
+    "categoria": "TV",
+    "marca": "Philips",
+    "modelo": "OLED908 55",
+    "cor": "cinza",
+    "preco": 9200,
+    "descricao": "Smart TV OLED 55 polegadas com Ambilight e P5 Perfect Picture",
+    "avaliacao": 4.7,
+    "disponibilidade": "Em estoque",
+    "garantia": "12 meses"
+  },
+  {
+    "categoria": "TV",
+    "marca": "Panasonic",
+    "modelo": "LZ2000 65",
+    "cor": "preto",
+    "preco": 15000,
+    "descricao": "Smart TV OLED 65 polegadas Master OLED Professional Edition",
+    "avaliacao": 4.8,
+    "disponibilidade": "Em estoque",
+    "garantia": "12 meses"
+  },
+  {
+    "categoria": "TV",
+    "marca": "Xiaomi",
+    "modelo": "TV Max 100",
+    "cor": "preto",
+    "preco": 25000,
+    "descricao": "Smart TV gigante de 100 polegadas com 4K e MIUI TV",
+    "avaliacao": 4.4,
+    "disponibilidade": "Em estoque",
+    "garantia": "12 meses"
+  },
+  {
+    "categoria": "TV",
+    "marca": "Sharp",
+    "modelo": "Aquos XLED 70",
+    "cor": "preto",
+    "preco": 7800,
+    "descricao": "Smart TV 70 polegadas com tecnologia XLED e Android TV",
+    "avaliacao": 4.3,
+    "disponibilidade": "Em estoque",
+    "garantia": "12 meses"
+  },
+  {
+    "categoria": "TV",
+    "marca": "Roku",
+    "modelo": "Select Series 55",
+    "cor": "preto",
+    "preco": 3500,
+    "descricao": "Smart TV 55 polegadas com Roku OS e HDR10+",
+    "avaliacao": 4.2,
+    "disponibilidade": "Em estoque",
+    "garantia": "12 meses"
   }
 ]

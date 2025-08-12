@@ -89,10 +89,19 @@ app.post("/webhook", (req, res) => {
   let fulfillmentText;
   if (resultados.length) {
     const prod = resultados[0]; // pega o primeiro resultado
-    fulfillmentText = `Recomendamos: ${prod.categoria} da ${prod.marca} ${prod.modelo}, cor ${prod.cor}, por R$${prod.preco}`;
+    fulfillmentText = `🔥 RECOMENDAÇÃO ESPECIAL 🔥\n\n` +
+      `📱 ${prod.categoria.toUpperCase()}: ${prod.marca} ${prod.modelo}\n` +
+      `🎨 Cor: ${prod.cor}\n` +
+      `💰 Preço: R$ ${prod.preco}\n` +
+      (prod.descricao ? `📝 Descrição: ${prod.descricao}\n` : '') +
+      (prod.avaliacao ? `⭐ Avaliação: ${prod.avaliacao}/5.0\n` : '') +
+      (prod.disponibilidade ? `📦 Disponibilidade: ${prod.disponibilidade}\n` : '') +
+      (prod.garantia ? `🛡️ Garantia: ${prod.garantia}\n` : '') +
+      `\n✨ Produto ideal para suas necessidades!`;
   } else {
     fulfillmentText =
-      "Desculpe, não encontramos um produto com essas características.";
+      "😔 Desculpe, não encontramos um produto com essas características.\n\n" +
+      "💡 Dica: Tente ser mais específico ou remover alguns filtros para encontrar mais opções!";
   }
 
   res.json({ fulfillmentText });
