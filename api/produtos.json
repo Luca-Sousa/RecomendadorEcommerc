@@ -19,5 +19,1069 @@
     "modelo": "iPhone 12",
     "cor": "preto",
     "preco": 3999
+  },
+  {
+    "categoria": "notebook",
+    "marca": "Dell",
+    "modelo": "Inspiron 15",
+    "cor": "cinza",
+    "preco": 3500
+  },
+  {
+    "categoria": "notebook",
+    "marca": "Lenovo",
+    "modelo": "ThinkPad X1",
+    "cor": "preto",
+    "preco": 8000
+  },
+  {
+    "categoria": "fone de ouvido",
+    "marca": "JBL",
+    "modelo": "Tune 500BT",
+    "cor": "azul",
+    "preco": 400
+  },
+  {
+    "categoria": "tablet",
+    "marca": "Samsung",
+    "modelo": "Galaxy Tab S7",
+    "cor": "preto",
+    "preco": 2500
+  },
+  {
+    "categoria": "TV",
+    "marca": "LG",
+    "modelo": "OLED55",
+    "cor": "preto",
+    "preco": 7000
+  },
+  {
+    "categoria": "smartwatch",
+    "marca": "Apple",
+    "modelo": "Watch Series 7",
+    "cor": "prata",
+    "preco": 3500
+  },
+  {
+    "categoria": "câmera",
+    "marca": "Canon",
+    "modelo": "EOS Rebel T7",
+    "cor": "preto",
+    "preco": 2500
+  },
+  {
+    "categoria": "monitor",
+    "marca": "Philips",
+    "modelo": "243V7Q",
+    "cor": "preto",
+    "preco": 900
+  },
+  {
+    "categoria": "impressora",
+    "marca": "HP",
+    "modelo": "DeskJet 2774",
+    "cor": "branco",
+    "preco": 600
+  },
+  {
+    "categoria": "roteador",
+    "marca": "TP-Link",
+    "modelo": "Archer C6",
+    "cor": "preto",
+    "preco": 300
+  },
+  {
+    "categoria": "console",
+    "marca": "Sony",
+    "modelo": "PlayStation 5",
+    "cor": "branco",
+    "preco": 5500
+  },
+  {
+    "categoria": "projetor",
+    "marca": "Acer",
+    "modelo": "X1123H",
+    "cor": "preto",
+    "preco": 2000
+  },
+  {
+    "categoria": "drone",
+    "marca": "DJI",
+    "modelo": "Mini 2",
+    "cor": "cinza",
+    "preco": 4500
+  },
+  {
+    "categoria": "HD externo",
+    "marca": "Seagate",
+    "modelo": "Expansion 2TB",
+    "cor": "preto",
+    "preco": 500
+  },
+  {
+    "categoria": "SSD",
+    "marca": "Kingston",
+    "modelo": "A400 480GB",
+    "cor": "preto",
+    "preco": 350
+  },
+  {
+    "categoria": "carregador",
+    "marca": "Xiaomi",
+    "modelo": "Mi Charger 33W",
+    "cor": "branco",
+    "preco": 120
+  },
+  {
+    "categoria": "leitor digital",
+    "marca": "Amazon",
+    "modelo": "Kindle 11ª Geração",
+    "cor": "preto",
+    "preco": 500
+  },
+  {
+    "categoria": "celular",
+    "marca": "Motorola",
+    "modelo": "Moto G100",
+    "cor": "azul",
+    "preco": 2500
+  },
+  {
+    "categoria": "notebook",
+    "marca": "Asus",
+    "modelo": "VivoBook 15",
+    "cor": "prata",
+    "preco": 3200
+  },
+  {
+    "categoria": "fone de ouvido",
+    "marca": "Sony",
+    "modelo": "WH-1000XM4",
+    "cor": "preto",
+    "preco": 1500
+  },
+  {
+    "categoria": "tablet",
+    "marca": "Apple",
+    "modelo": "iPad Air",
+    "cor": "rosa",
+    "preco": 4000
+  },
+  {
+    "categoria": "TV",
+    "marca": "Samsung",
+    "modelo": "QLED 4K",
+    "cor": "preto",
+    "preco": 6000
+  },
+  {
+    "categoria": "smartwatch",
+    "marca": "Xiaomi",
+    "modelo": "Mi Watch Lite",
+    "cor": "preto",
+    "preco": 700
+  },
+  {
+    "categoria": "câmera",
+    "marca": "GoPro",
+    "modelo": "Hero 10",
+    "cor": "preto",
+    "preco": 3500
+  },
+  {
+    "categoria": "monitor",
+    "marca": "Acer",
+    "modelo": "Nitro VG240Y",
+    "cor": "preto",
+    "preco": 1100
+  },
+  {
+    "categoria": "impressora",
+    "marca": "Epson",
+    "modelo": "EcoTank L3250",
+    "cor": "preto",
+    "preco": 1200
+  },
+  {
+    "categoria": "roteador",
+    "marca": "Huawei",
+    "modelo": "AX3 Quad-Core",
+    "cor": "branco",
+    "preco": 400
+  },
+  {
+    "categoria": "console",
+    "marca": "Nintendo",
+    "modelo": "Switch OLED",
+    "cor": "branco",
+    "preco": 3500
+  },
+  {
+    "categoria": "celular",
+    "marca": "Xiaomi",
+    "modelo": "Redmi Note 11",
+    "cor": "azul",
+    "preco": 1500
+  },
+  {
+    "categoria": "notebook",
+    "marca": "HP",
+    "modelo": "Pavilion 14",
+    "cor": "prata",
+    "preco": 4000
+  },
+  {
+    "categoria": "fone de ouvido",
+    "marca": "Philips",
+    "modelo": "TAUH202BK",
+    "cor": "preto",
+    "preco": 300
+  },
+  {
+    "categoria": "tablet",
+    "marca": "Lenovo",
+    "modelo": "Tab P11",
+    "cor": "cinza",
+    "preco": 2000
+  },
+  {
+    "categoria": "TV",
+    "marca": "Sony",
+    "modelo": "Bravia X80J",
+    "cor": "preto",
+    "preco": 8000
+  },
+  {
+    "categoria": "smartwatch",
+    "marca": "Samsung",
+    "modelo": "Galaxy Watch 4",
+    "cor": "verde",
+    "preco": 1200
+  },
+  {
+    "categoria": "câmera",
+    "marca": "Sony",
+    "modelo": "Alpha a6000",
+    "cor": "preto",
+    "preco": 3500
+  },
+  {
+    "categoria": "monitor",
+    "marca": "LG",
+    "modelo": "UltraWide 29WK600",
+    "cor": "preto",
+    "preco": 1300
+  },
+  {
+    "categoria": "impressora",
+    "marca": "Canon",
+    "modelo": "Pixma G3110",
+    "cor": "preto",
+    "preco": 900
+  },
+  {
+    "categoria": "roteador",
+    "marca": "Multilaser",
+    "modelo": "RE163",
+    "cor": "branco",
+    "preco": 200
+  },
+  {
+    "categoria": "console",
+    "marca": "Microsoft",
+    "modelo": "Xbox Series S",
+    "cor": "branco",
+    "preco": 3000
+  },
+  {
+    "categoria": "projetor",
+    "marca": "LG",
+    "modelo": "CineBeam PH550",
+    "cor": "branco",
+    "preco": 2500
+  },
+  {
+    "categoria": "drone",
+    "marca": "DJI",
+    "modelo": "Mavic Air 2",
+    "cor": "cinza",
+    "preco": 7000
+  },
+  {
+    "categoria": "HD externo",
+    "marca": "Western Digital",
+    "modelo": "Elements 1TB",
+    "cor": "preto",
+    "preco": 350
+  },
+  {
+    "categoria": "SSD",
+    "marca": "Samsung",
+    "modelo": "EVO 860 1TB",
+    "cor": "preto",
+    "preco": 900
+  },
+  {
+    "categoria": "carregador",
+    "marca": "Motorola",
+    "modelo": "TurboPower 20W",
+    "cor": "preto",
+    "preco": 100
+  },
+  {
+    "categoria": "leitor digital",
+    "marca": "Amazon",
+    "modelo": "Kindle Paperwhite",
+    "cor": "branco",
+    "preco": 800
+  },
+  {
+    "categoria": "celular",
+    "marca": "Realme",
+    "modelo": "8 Pro",
+    "cor": "azul",
+    "preco": 1800
+  },
+  {
+    "categoria": "notebook",
+    "marca": "Acer",
+    "modelo": "Aspire 5",
+    "cor": "prata",
+    "preco": 3500
+  },
+  {
+    "categoria": "fone de ouvido",
+    "marca": "JBL",
+    "modelo": "Quantum 100",
+    "cor": "branco",
+    "preco": 250
+  },
+  {
+    "categoria": "tablet",
+    "marca": "Multilaser",
+    "modelo": "M10A",
+    "cor": "preto",
+    "preco": 800
+  },
+  {
+    "categoria": "TV",
+    "marca": "Philips",
+    "modelo": "50PUG7625",
+    "cor": "preto",
+    "preco": 4000
+  },
+  {
+    "categoria": "smartwatch",
+    "marca": "Huawei",
+    "modelo": "Watch GT 2",
+    "cor": "preto",
+    "preco": 900
+  },
+  {
+    "categoria": "câmera",
+    "marca": "Canon",
+    "modelo": "Powershot SX420",
+    "cor": "vermelho",
+    "preco": 1200
+  },
+  {
+    "categoria": "monitor",
+    "marca": "Samsung",
+    "modelo": "Curved 24",
+    "cor": "branco",
+    "preco": 1000
+  },
+  {
+    "categoria": "impressora",
+    "marca": "Brother",
+    "modelo": "HL-1202",
+    "cor": "preto",
+    "preco": 700
+  },
+  {
+    "categoria": "roteador",
+    "marca": "D-Link",
+    "modelo": "DIR-615",
+    "cor": "preto",
+    "preco": 150
+  },
+  {
+    "categoria": "console",
+    "marca": "Sony",
+    "modelo": "PlayStation 4",
+    "cor": "preto",
+    "preco": 2500
+  },
+  {
+    "categoria": "projetor",
+    "marca": "Epson",
+    "modelo": "PowerLite S41+",
+    "cor": "branco",
+    "preco": 1800
+  },
+  {
+    "categoria": "drone",
+    "marca": "Multilaser",
+    "modelo": "Eagle Pro",
+    "cor": "preto",
+    "preco": 900
+  },
+  {
+    "categoria": "HD externo",
+    "marca": "Toshiba",
+    "modelo": "Canvio Basics 1TB",
+    "cor": "preto",
+    "preco": 300
+  },
+  {
+    "categoria": "SSD",
+    "marca": "Crucial",
+    "modelo": "BX500 480GB",
+    "cor": "preto",
+    "preco": 400
+  },
+  {
+    "categoria": "carregador",
+    "marca": "Positivo",
+    "modelo": "Turbo 18W",
+    "cor": "branco",
+    "preco": 80
+  },
+  {
+    "categoria": "leitor digital",
+    "marca": "Amazon",
+    "modelo": "Kindle Oasis",
+    "cor": "cinza",
+    "preco": 1200
+  },
+  {
+    "categoria": "celular",
+    "marca": "LG",
+    "modelo": "K62+",
+    "cor": "vermelho",
+    "preco": 1200
+  },
+  {
+    "categoria": "notebook",
+    "marca": "Samsung",
+    "modelo": "Book X40",
+    "cor": "cinza",
+    "preco": 4200
+  },
+  {
+    "categoria": "fone de ouvido",
+    "marca": "Sony",
+    "modelo": "MDR-ZX110",
+    "cor": "branco",
+    "preco": 100
+  },
+  {
+    "categoria": "tablet",
+    "marca": "Philips",
+    "modelo": "TAB 7306",
+    "cor": "azul",
+    "preco": 1100
+  },
+  {
+    "categoria": "TV",
+    "marca": "Acer",
+    "modelo": "ATV 32",
+    "cor": "preto",
+    "preco": 2000
+  },
+  {
+    "categoria": "smartwatch",
+    "marca": "Realme",
+    "modelo": "Watch 2 Pro",
+    "cor": "cinza",
+    "preco": 600
+  },
+  {
+    "categoria": "câmera",
+    "marca": "GoPro",
+    "modelo": "Hero 9",
+    "cor": "preto",
+    "preco": 2500
+  },
+  {
+    "categoria": "monitor",
+    "marca": "Acer",
+    "modelo": "SB220Q",
+    "cor": "preto",
+    "preco": 800
+  },
+  {
+    "categoria": "impressora",
+    "marca": "HP",
+    "modelo": "Laser 107w",
+    "cor": "branco",
+    "preco": 900
+  },
+  {
+    "categoria": "roteador",
+    "marca": "TP-Link",
+    "modelo": "TL-WR840N",
+    "cor": "branco",
+    "preco": 120
+  },
+  {
+    "categoria": "console",
+    "marca": "Nintendo",
+    "modelo": "Switch Lite",
+    "cor": "azul",
+    "preco": 2000
+  },
+  {
+    "categoria": "projetor",
+    "marca": "Sony",
+    "modelo": "VPL-EX575",
+    "cor": "preto",
+    "preco": 3500
+  },
+  {
+    "categoria": "drone",
+    "marca": "DJI",
+    "modelo": "Phantom 4",
+    "cor": "branco",
+    "preco": 9500
+  },
+  {
+    "categoria": "HD externo",
+    "marca": "Seagate",
+    "modelo": "Backup Plus 4TB",
+    "cor": "azul",
+    "preco": 900
+  },
+  {
+    "categoria": "SSD",
+    "marca": "Kingston",
+    "modelo": "NV1 1TB",
+    "cor": "preto",
+    "preco": 700
+  },
+  {
+    "categoria": "carregador",
+    "marca": "Samsung",
+    "modelo": "Super Fast 25W",
+    "cor": "preto",
+    "preco": 150
+  },
+  {
+    "categoria": "leitor digital",
+    "marca": "Amazon",
+    "modelo": "Kindle 10ª Geração",
+    "cor": "preto",
+    "preco": 400
+  },
+  {
+    "categoria": "celular",
+    "marca": "Huawei",
+    "modelo": "P30 Lite",
+    "cor": "azul",
+    "preco": 1600
+  },
+  {
+    "categoria": "notebook",
+    "marca": "Microsoft",
+    "modelo": "Surface Laptop Go",
+    "cor": "cinza",
+    "preco": 6000
+  },
+  {
+    "categoria": "fone de ouvido",
+    "marca": "JBL",
+    "modelo": "Endurance Run",
+    "cor": "vermelho",
+    "preco": 120
+  },
+  {
+    "categoria": "tablet",
+    "marca": "Amazon",
+    "modelo": "Fire HD 8",
+    "cor": "preto",
+    "preco": 700
+  },
+  {
+    "categoria": "TV",
+    "marca": "LG",
+    "modelo": "NanoCell 50",
+    "cor": "preto",
+    "preco": 5000
+  },
+  {
+    "categoria": "smartwatch",
+    "marca": "Philips",
+    "modelo": "SWA5100",
+    "cor": "branco",
+    "preco": 400
+  },
+  {
+    "categoria": "câmera",
+    "marca": "Canon",
+    "modelo": "EOS M50",
+    "cor": "branco",
+    "preco": 3000
+  },
+  {
+    "categoria": "monitor",
+    "marca": "Philips",
+    "modelo": "221V8L",
+    "cor": "preto",
+    "preco": 700
+  },
+  {
+    "categoria": "impressora",
+    "marca": "Epson",
+    "modelo": "L120",
+    "cor": "preto",
+    "preco": 800
+  },
+  {
+    "categoria": "roteador",
+    "marca": "Huawei",
+    "modelo": "WS5200",
+    "cor": "preto",
+    "preco": 250
+  },
+  {
+    "categoria": "console",
+    "marca": "Microsoft",
+    "modelo": "Xbox One S",
+    "cor": "branco",
+    "preco": 1800
+  },
+  {
+    "categoria": "projetor",
+    "marca": "Acer",
+    "modelo": "H5382BD",
+    "cor": "preto",
+    "preco": 2200
+  },
+  {
+    "categoria": "drone",
+    "marca": "DJI",
+    "modelo": "Tello",
+    "cor": "branco",
+    "preco": 500
+  },
+  {
+    "categoria": "HD externo",
+    "marca": "Western Digital",
+    "modelo": "My Passport 2TB",
+    "cor": "vermelho",
+    "preco": 600
+  },
+  {
+    "categoria": "SSD",
+    "marca": "Crucial",
+    "modelo": "MX500 1TB",
+    "cor": "azul",
+    "preco": 900
+  },
+  {
+    "categoria": "carregador",
+    "marca": "Asus",
+    "modelo": "18W Fast",
+    "cor": "preto",
+    "preco": 90
+  },
+  {
+    "categoria": "leitor digital",
+    "marca": "Amazon",
+    "modelo": "Kindle Scribe",
+    "cor": "cinza",
+    "preco": 1500
+  },
+  {
+    "categoria": "tablet",
+    "marca": "Samsung",
+    "modelo": "Galaxy Tab A8",
+    "cor": "prata",
+    "preco": 1500
+  },
+  {
+    "categoria": "tablet",
+    "marca": "Apple",
+    "modelo": "iPad Mini",
+    "cor": "cinza",
+    "preco": 3500
+  },
+  {
+    "categoria": "tablet",
+    "marca": "Lenovo",
+    "modelo": "Tab M10",
+    "cor": "branco",
+    "preco": 1200
+  },
+  {
+    "categoria": "tablet",
+    "marca": "Multilaser",
+    "modelo": "M8W",
+    "cor": "preto",
+    "preco": 700
+  },
+  {
+    "categoria": "TV",
+    "marca": "Philips",
+    "modelo": "Ambilight 58",
+    "cor": "preto",
+    "preco": 6500
+  },
+  {
+    "categoria": "TV",
+    "marca": "Samsung",
+    "modelo": "Crystal UHD",
+    "cor": "branco",
+    "preco": 5500
+  },
+  {
+    "categoria": "TV",
+    "marca": "Sony",
+    "modelo": "XBR-65X905F",
+    "cor": "preto",
+    "preco": 9500
+  },
+  {
+    "categoria": "TV",
+    "marca": "LG",
+    "modelo": "Smart TV 43",
+    "cor": "branco",
+    "preco": 3000
+  },
+  {
+    "categoria": "smartwatch",
+    "marca": "Apple",
+    "modelo": "Watch SE",
+    "cor": "rosa",
+    "preco": 2000
+  },
+  {
+    "categoria": "smartwatch",
+    "marca": "Samsung",
+    "modelo": "Galaxy Fit 2",
+    "cor": "vermelho",
+    "preco": 400
+  },
+  {
+    "categoria": "smartwatch",
+    "marca": "Xiaomi",
+    "modelo": "Amazfit Bip U",
+    "cor": "verde",
+    "preco": 500
+  },
+  {
+    "categoria": "smartwatch",
+    "marca": "Huawei",
+    "modelo": "Watch Fit",
+    "cor": "laranja",
+    "preco": 800
+  },
+  {
+    "categoria": "câmera",
+    "marca": "Canon",
+    "modelo": "EOS 250D",
+    "cor": "preto",
+    "preco": 3500
+  },
+  {
+    "categoria": "câmera",
+    "marca": "Sony",
+    "modelo": "Cyber-shot WX350",
+    "cor": "prata",
+    "preco": 1800
+  },
+  {
+    "categoria": "câmera",
+    "marca": "GoPro",
+    "modelo": "Hero 8",
+    "cor": "preto",
+    "preco": 2000
+  },
+  {
+    "categoria": "câmera",
+    "marca": "Canon",
+    "modelo": "PowerShot G7X",
+    "cor": "preto",
+    "preco": 4000
+  },
+  {
+    "categoria": "monitor",
+    "marca": "Dell",
+    "modelo": "P2419H",
+    "cor": "preto",
+    "preco": 1200
+  },
+  {
+    "categoria": "monitor",
+    "marca": "Acer",
+    "modelo": "R221Q",
+    "cor": "branco",
+    "preco": 900
+  },
+  {
+    "categoria": "monitor",
+    "marca": "Samsung",
+    "modelo": "T350",
+    "cor": "cinza",
+    "preco": 1100
+  },
+  {
+    "categoria": "monitor",
+    "marca": "LG",
+    "modelo": "24MK430H",
+    "cor": "preto",
+    "preco": 800
+  },
+  {
+    "categoria": "impressora",
+    "marca": "HP",
+    "modelo": "Ink Tank 416",
+    "cor": "preto",
+    "preco": 1000
+  },
+  {
+    "categoria": "impressora",
+    "marca": "Canon",
+    "modelo": "G3111",
+    "cor": "preto",
+    "preco": 1100
+  },
+  {
+    "categoria": "impressora",
+    "marca": "Epson",
+    "modelo": "L3150",
+    "cor": "branco",
+    "preco": 1300
+  },
+  {
+    "categoria": "impressora",
+    "marca": "Brother",
+    "modelo": "DCP-L2540DW",
+    "cor": "cinza",
+    "preco": 1500
+  },
+  {
+    "categoria": "roteador",
+    "marca": "TP-Link",
+    "modelo": "Archer AX10",
+    "cor": "preto",
+    "preco": 500
+  },
+  {
+    "categoria": "roteador",
+    "marca": "D-Link",
+    "modelo": "DIR-882",
+    "cor": "preto",
+    "preco": 400
+  },
+  {
+    "categoria": "roteador",
+    "marca": "Huawei",
+    "modelo": "AX2",
+    "cor": "branco",
+    "preco": 350
+  },
+  {
+    "categoria": "roteador",
+    "marca": "Multilaser",
+    "modelo": "RE018",
+    "cor": "preto",
+    "preco": 250
+  },
+  {
+    "categoria": "console",
+    "marca": "Sony",
+    "modelo": "PlayStation 3",
+    "cor": "preto",
+    "preco": 1200
+  },
+  {
+    "categoria": "console",
+    "marca": "Microsoft",
+    "modelo": "Xbox 360",
+    "cor": "preto",
+    "preco": 1000
+  },
+  {
+    "categoria": "console",
+    "marca": "Nintendo",
+    "modelo": "Wii U",
+    "cor": "branco",
+    "preco": 900
+  },
+  {
+    "categoria": "console",
+    "marca": "Sony",
+    "modelo": "PlayStation Vita",
+    "cor": "azul",
+    "preco": 800
+  },
+  {
+    "categoria": "projetor",
+    "marca": "Epson",
+    "modelo": "EH-TW650",
+    "cor": "branco",
+    "preco": 2500
+  },
+  {
+    "categoria": "projetor",
+    "marca": "Acer",
+    "modelo": "X1223H",
+    "cor": "preto",
+    "preco": 1700
+  },
+  {
+    "categoria": "projetor",
+    "marca": "LG",
+    "modelo": "PH30N",
+    "cor": "prata",
+    "preco": 1200
+  },
+  {
+    "categoria": "projetor",
+    "marca": "Sony",
+    "modelo": "VPL-DX221",
+    "cor": "preto",
+    "preco": 2000
+  },
+  {
+    "categoria": "drone",
+    "marca": "DJI",
+    "modelo": "Mavic Mini",
+    "cor": "branco",
+    "preco": 3000
+  },
+  {
+    "categoria": "drone",
+    "marca": "DJI",
+    "modelo": "Air 2S",
+    "cor": "cinza",
+    "preco": 8000
+  },
+  {
+    "categoria": "drone",
+    "marca": "Multilaser",
+    "modelo": "Hawk",
+    "cor": "preto",
+    "preco": 1200
+  },
+  {
+    "categoria": "drone",
+    "marca": "DJI",
+    "modelo": "Spark",
+    "cor": "vermelho",
+    "preco": 2000
+  },
+  {
+    "categoria": "HD externo",
+    "marca": "Seagate",
+    "modelo": "Expansion 1TB",
+    "cor": "preto",
+    "preco": 350
+  },
+  {
+    "categoria": "HD externo",
+    "marca": "Western Digital",
+    "modelo": "Elements 2TB",
+    "cor": "preto",
+    "preco": 400
+  },
+  {
+    "categoria": "HD externo",
+    "marca": "Toshiba",
+    "modelo": "Canvio Advance 2TB",
+    "cor": "vermelho",
+    "preco": 500
+  },
+  {
+    "categoria": "HD externo",
+    "marca": "Seagate",
+    "modelo": "One Touch 1TB",
+    "cor": "azul",
+    "preco": 450
+  },
+  {
+    "categoria": "SSD",
+    "marca": "Kingston",
+    "modelo": "A2000 500GB",
+    "cor": "preto",
+    "preco": 350
+  },
+  {
+    "categoria": "SSD",
+    "marca": "Samsung",
+    "modelo": "T5 500GB",
+    "cor": "azul",
+    "preco": 600
+  },
+  {
+    "categoria": "SSD",
+    "marca": "Crucial",
+    "modelo": "P2 500GB",
+    "cor": "preto",
+    "preco": 400
+  },
+  {
+    "categoria": "SSD",
+    "marca": "Kingston",
+    "modelo": "KC600 256GB",
+    "cor": "preto",
+    "preco": 300
+  },
+  {
+    "categoria": "carregador",
+    "marca": "Xiaomi",
+    "modelo": "Mi Charger 18W",
+    "cor": "preto",
+    "preco": 80
+  },
+  {
+    "categoria": "carregador",
+    "marca": "Samsung",
+    "modelo": "Carregador Wireless",
+    "cor": "branco",
+    "preco": 200
+  },
+  {
+    "categoria": "carregador",
+    "marca": "Motorola",
+    "modelo": "TurboPower 30W",
+    "cor": "preto",
+    "preco": 150
+  },
+  {
+    "categoria": "carregador",
+    "marca": "Asus",
+    "modelo": "Carregador Rápido 30W",
+    "cor": "branco",
+    "preco": 120
+  },
+  {
+    "categoria": "leitor digital",
+    "marca": "Amazon",
+    "modelo": "Kindle Kids",
+    "cor": "azul",
+    "preco": 600
+  },
+  {
+    "categoria": "leitor digital",
+    "marca": "Amazon",
+    "modelo": "Kindle Paperwhite Signature",
+    "cor": "preto",
+    "preco": 1100
+  },
+  {
+    "categoria": "leitor digital",
+    "marca": "Amazon",
+    "modelo": "Kindle Oasis 32GB",
+    "cor": "dourado",
+    "preco": 1600
+  },
+  {
+    "categoria": "leitor digital",
+    "marca": "Amazon",
+    "modelo": "Kindle 8ª Geração",
+    "cor": "preto",
+    "preco": 350
   }
 ]
