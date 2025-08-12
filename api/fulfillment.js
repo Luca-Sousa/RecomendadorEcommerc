@@ -12,9 +12,21 @@ const produtosData = JSON.parse(
 
 app.post("/webhook", (req, res) => {
   // Extrai parâmetros do Dialogflow
-  const parameters = req.body.queryResult.parameters || {};
+  // Extrai parâmetros principais
+  let parameters = req.body.queryResult.parameters || {};
 
-  console.log("Parâmetros recebidos:", parameters);
+  // Se parameters está vazio, busca nos contexts!
+  if (Object.keys(parameters).length === 0) {
+    const contexts = req.body.queryResult.outputContexts || [];
+    // Procura o context que tem os dados (ajuste conforme o nome dos contexts no seu Dialogflow)
+    for (let ctx of contexts) {
+      // Contexts que podem ter os parâmetros
+      if (ctx.parameters) {
+        // Copia os parâmetros encontrados
+        parameters = { ...parameters, ...ctx.parameters };
+      }
+    }
+  }
 
   const categoria = parameters.tipo_produto || "celular";
   const marca = parameters.marca_produto || "";
