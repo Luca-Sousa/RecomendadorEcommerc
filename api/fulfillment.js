@@ -28,6 +28,8 @@ app.post("/webhook", (req, res) => {
     }
   }
 
+  console.log("Parâmetros extraídos:", parameters);
+
   const categoria = parameters.tipo_produto || "celular";
   const marca = parameters.marca_produto || "";
   const cor = parameters.cor_produto || "";
